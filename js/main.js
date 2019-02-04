@@ -2,17 +2,10 @@
             Preloader
 ======================================================*/
 
-<<<<<<< HEAD
 $(window).on('load',function(){
   $('#status').fadeOut();
   $('#preloader').delay(350).fadeOut('slow');
 });
-=======
- $(window).on('load',function(){
-    $('#status').fadeOut();
-    $('#preloader').delay(350).fadeOut('slow');
- });
->>>>>>> a90940b5d24b436a9a4cb1fb6bab93823e0c9224
 
 // END
  
