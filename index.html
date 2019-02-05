@@ -181,7 +181,7 @@
 						<div class="col-lg-4 col-md-4 speaker-wrap">
 							<div class="single-speaker">
 								<div class="content">
-								    <a href="#" >
+								    <a href="#popup-c" >
 								      <div class="content-overlay"></div>
 								  		 <img class="content-image img-fluid d-block mx-auto" src="img/s3.jpg" alt="">
 								      	<div class="content-details fadeIn-bottom"></div>
@@ -293,7 +293,7 @@
 						  	<p>
 						</div>
 						<div class="col-lg-4 col-md-4 speaker-wrap">
-							<div class="single-speaker">
+							<div class="single-speaker heart-pump">
 								<div class="content">
 								    <a href="#popup-pubg">
 								      <div class="content-overlay"></div>
@@ -471,7 +471,7 @@
 
 						<div class="col-lg-8  col-md-12">
 							<div class="single-footer-widget newsletter">
-								<h6 class="vibe" onclick="playBGM();">Feel the vibe - Get the music playing</h6>
+								<h6 id="BGM" class="vibe" onclick="//playBGM();">Feel the vibe - Department of CSE</h6>
 							</div>
 						</div>
 						<!-- <div class="col-lg-3  col-md-12">
@@ -524,6 +524,14 @@
 			        </div>
 			    </div>
 			</div>
+			<div class="popup" id="popup-c">
+			    <div class="popup__content">
+			        <div class="popup__right">
+			            <a href="#section-tours" class="popup__close">&times;</a>
+			            <img src="Cap/c.jpg" width="325" height="500" style="border: 2px solid #000;">
+			        </div>
+			    </div>
+			</div>
 			<div class="popup" id="popup-adapt">
 			    <div class="popup__content">
 			        <div class="popup__right">
@@ -563,15 +571,28 @@
 			<script src="js/jquery.magnific-popup.min.js"></script>
 			<script src="js/main.js"></script>
 			<script>
+				var song = document.getElementById("BGM"); 
+				function playVid() { 
+				    song.play(); 
+				} 
+				function pauseVid() { 
+				    song.pause(); 
+				}
 				var toggle = false;
+
+				
 				function playBGM(){
+					if(toggle)
+						toggle = false;
+					else
+						toggle = true;
 					var audio = new Audio('bgm.mp3');
+					console.log(toggle);
 					if(!toggle) 
 					{
-						toggle = true;
 						audio.play();	
 					} else if(toggle==false){
-						audio.muted = true;
+						pauseVid();
 				}
 			}
 			</script>

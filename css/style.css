@@ -188,3 +188,25 @@ body {
     line-height: 1; }
   .popup__close:hover {
     color: #c732ff; }
+
+.heart-pump {
+	animation-name: heartpump;
+	animation-duration: .5s;
+	animation-timing-function: ease;
+	animation-iteration-count: infinite;
+	transition: all .5s;
+}
+
+@keyframes heartpump {
+	0% {
+		transform: scale(1.0);
+	}
+
+	50% {
+		transform: scale(1.01);
+	}
+
+	100% {
+		transform: scale(1.0);
+	}
+}
