@@ -38,11 +38,11 @@ body {
 	font-family: 'Marck Script', cursive;
 	font-weight: 100;
 	line-height: 70px;
-	animation-name: captcha;
+/*	animation-name: captcha;
 	animation-duration: 5s;
-	animation-timing-function: ease-out;
+	animation-timing-function: linear;
 	animation-iteration-count: infinite;
-	transition: all .5s;
+*/	transition: all .5s;
 }
 
 .quote:hover {

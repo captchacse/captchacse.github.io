@@ -14,7 +14,7 @@ function updateMainQuote() {
   var i = 0;
   setInterval(function() {
       $("#main-quote").text(quote[(i++)%4]);    
-  }, 5000);
+  }, 3000);
 }
  
 $(document).ready(function(){
