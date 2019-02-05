@@ -18,11 +18,11 @@ function updateMainQuote() {
 }
 
 function updatePromo() {
-  var quote = ["Captcha Events", "Captcha Events - View Promo", "Captcha Events", "Captcha Events - View Promo"];
+  var quote = [" Here", "Here Comes", "Here Comes The", "Here Comes The Promo", "Here Comes The Promo - Tap to play"];
   var i = 0;
   setInterval(function() {
-      $("#update-promo").text(quote[(i++)%4]);    
-  }, 1000);
+      $("#update-promo").text(quote[(i++)%5]);    
+  }, 400);
 }
  
 $(document).ready(function(){
