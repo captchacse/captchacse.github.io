@@ -16,10 +16,19 @@ function updateMainQuote() {
       $("#main-quote").text(quote[(i++)%4]);    
   }, 3000);
 }
+
+function updatePromo() {
+  var quote = ["Captcha Events", "Captcha Events - View Promo", "Captcha Events", "Captcha Events - View Promo"];
+  var i = 0;
+  setInterval(function() {
+      $("#update-promo").text(quote[(i++)%4]);    
+  }, 1000);
+}
  
 $(document).ready(function(){
 	"use strict";
   updateMainQuote();
+  updatePromo();
 	var window_width 	 = $(window).width(),
 	window_height 		 = window.innerHeight,
 	header_height 		 = $(".default-header").height(),
