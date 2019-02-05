@@ -210,3 +210,12 @@ body {
 		transform: scale(1.0);
 	}
 }
+
+.promotion {
+	color: #c732ff;
+	animation-name: captcha;
+	animation-duration: .5s;
+	animation-timing-function: ease;
+	animation-iteration-count: infinite;
+	transition: all .5s;
+}
