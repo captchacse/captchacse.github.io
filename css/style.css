@@ -40,7 +40,7 @@ body {
 	line-height: 70px;
 	animation-name: captcha;
 	animation-duration: 5s;
-	animation-timing-function: ease;
+	animation-timing-function: ease-out;
 	animation-iteration-count: infinite;
 	transition: all .5s;
 }
@@ -53,15 +53,15 @@ body {
 
 @keyframes captcha {
 	0% {
-		opacity: 1;
-	}
-
-	50% {
 		opacity: 0;
 	}
 
-	100% {
+	50% {
 		opacity: 1;
+	}
+
+	100% {
+		opacity: 0;
 	}
 }
 

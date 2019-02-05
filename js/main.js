@@ -8,10 +8,18 @@
 // });
 
 // END
+
+function updateMainQuote() {
+  var quote = ["Department of cse", "mvit, puducherry", "presents", "Captcha 2k19"];
+  var i = 0;
+  setInterval(function() {
+      $("#main-quote").text(quote[(i++)%4]);    
+  }, 5000);
+}
  
 $(document).ready(function(){
 	"use strict";
-
+  updateMainQuote();
 	var window_width 	 = $(window).width(),
 	window_height 		 = window.innerHeight,
 	header_height 		 = $(".default-header").height(),
