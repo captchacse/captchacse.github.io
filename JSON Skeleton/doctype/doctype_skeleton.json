@@ -1,0 +1,45 @@
+DocType
+	01
+		Name = Child Specialist
+		Description = Paediatrician
+		Image = 
+	02
+		Name = Dental Care
+		Description = Dentist
+		Image =
+	03
+		Name = General Doctor
+		Description = General Practitioner
+		Image =  	
+	04
+		Name = Woman's Health
+		Description = Obstetrician
+		Image =  	
+	05
+		Name = General Surgery
+		Description = Surgeon
+		Image =  	
+	06
+		Name = Bone and Joints
+		Description = Orthopedists
+		Image =  
+	07
+		Name = Brain and Nerves
+		Description = Neurologist
+		Image =  	
+	08
+		Name = Ear Nose Throat
+		Description = ENT Physician
+		Image =  	
+	09
+		Name = Eye Specialist
+		Description = Opthalmologist
+		Image =  
+	10
+		Name = Physiotherapy
+		Description = Physiotherapists
+		Image =  	
+	11
+		Name = Heart
+		Description = Cardiologists
+		Image =  	
