@@ -1,0 +1,912 @@
+hospitals	
+	01
+		name = Nephroplus Kidney Care Centre - Sahrudaya Hospital
+		logo = 
+		address =KG Hospital, Govt Arts College Road, Coimbatore, Tamil Nadu, TN
+		ratings = 4.8
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 437 6808
+
+	02
+		name = NEPHROPLUS DIALYSIS CENTER-Allapuzha
+
+		logo = 
+		address = 
+		ratings =4.6 
+		insurance =Bajaj Allianz General Insurance
+
+
+		contact =0422 337 6808
+
+	03
+		name = Sahrudaya Hospital
+
+		logo = 
+		address = Thondankulangara,Thathampally,Alappuzha,Kerala-688013
+		ratings = 3.6
+		insurance =Star Health Insurance,Apollo Munich Health Insurance,Bajaj Allianz General Insurance,
+		Religare Health Insurance,Aditya Birla Health Insurance
+
+
+
+
+
+		contact =4134004677
+
+	04
+		name = Be Well Hospitals
+
+		logo = 
+		address = No. 15, Ecr, Lawspet, Green Gardens,Pondicherry,PY
+
+		ratings = 3.9
+		insurance =Apollo Munich Health Insurance,IFFCO Tokio General Insurance,ICICI Lombard General Insurance,Aditya Birla Health Insurance
+
+
+
+
+		contact =4134004677
+
+
+	05
+		name = Vasan Eyecare Hospital
+
+		logo = 
+		address = No.1, Villupuram Main Road ,Indira Gandhi Square Pondicherry,PY
+
+		ratings =4.2 
+		insurance =Apollo Munich Health Insurance
+
+		contact =4134340000
+
+	06
+		name = Rani Hospital
+
+		logo = 
+		address =  27, Vazhuthavur Road,Pondicherry ,PY
+
+		ratings = 2.9
+		insurance =Apollo Munich Health Insurance
+
+		contact =2272905227
+
+	07
+		name = Pondicherry Institute Of Medical Science
+
+		logo = 
+		address = No 20, Ganapathichettikulam Village ,Kalapet ,Pondicherry,PY
+
+		ratings = 4.1
+		insurance =Apollo Munich Health Insurance
+
+		contact =4132655274
+
+	08
+		name = Auromed Hospitals Private Limited
+
+		logo = 
+		address = 1,Sabthagiri Garden,Solai Nagar Main Road,Muthialpet,Pondicherry,PY
+
+		ratings =4.2
+		insurance =Apollo Munich Health Insurance
+
+		contact =41332233500
+
+	09
+		name =New Medical Centre
+ 
+		logo = 
+		address =470, M.G.Road,Pondicherry ,PY
+ 
+		ratings =3.4 
+		insurance =Apollo Munich Health Insurance
+
+		contact =4132226434
+
+	10
+		name = Clinic Nalam
+
+		logo = 
+		address = No. 86, Eswaran Koil Street,Pondicherry , PY
+
+		ratings = 4.3
+		insurance =Apollo Munich Health Insurance
+
+		contact =41323338100
+
+	11
+		name =Sri Venkateshwara Medical College Hospital & Research Centre
+ 
+		logo = 
+		address =Pondy-Villupuram Main Road, Ariyur,Pondicherry, PY
+ 
+		ratings = 3.9
+		insurance =Apollo Munich Health Insurance
+
+		contact =4132644482
+
+	12
+		name = Sri Manakula Vinayagar Medical College And Hospital
+
+		logo = 
+		address =Kalitheerthalkuppam, Madagadipet, Pondicherry, PY
+ 
+		ratings = 4.6
+		insurance =Apollo Munich Health Insurance,Royal Sundaram General Insurance,HDFC ERGO General Insurance
+
+
+
+		contact =4132643000
+
+	13
+		name =A. G. Padmavati'S Hospital Ltd.
+ 
+		logo = 
+		address =R. S. 127/1A/1A/1A/A, Villianur Main Road, Arumparthapuram, Pondicherry ,PY
+ 
+		ratings =3.5
+		insurance =Apollo Munich Health Insurance
+
+		contact =4132295500
+
+	14
+		name = Mahatma Gandhi Medical College And Research Institute
+
+		logo = 
+		address =Cuddalore road, Pondy Main Road, Pillaiyarkuppam,Puducherry,PY
+ 
+		ratings = 4.0
+		insurance =Apollo Munich Health Insurance,Royal Sundaram General Insurance
+
+
+
+		contact =04132615449 ,413261545
+
+	15
+		name = East Coast Hospital Ltd
+
+		logo = 
+		address =No 1, Perambai Road, Paris Nagar, Moolakulam,Puducherry,PY
+ 
+		ratings = 3.4
+		insurance =Apollo Munich Health Insurance
+
+		contact =4132297800
+
+	16
+		name = Pgk. Nursing Home
+
+		logo = 
+		address =54, Kannapan Kinnarv St., Behind SAST Primary School, Ward -2 ,Anthiyur,TamilNadu,TN
+ 
+		ratings = 3.7
+		insurance =Apollo Munich Health Insurance
+
+		contact =4256261416
+
+	17
+		name = City Hospital
+
+		logo = 
+		address = Aziz Nagar, No 1 B, Railway Feeder Rd, Vasantham Nagar, Aruppukkottai,TamilNadu,TN
+
+		ratings = 4.3
+		insurance =Apollo Munich Health Insurance
+
+		contact =04566 221 888
+
+	18
+		name =Shri Lakshmi Clinic
+ 
+		logo = 
+		address =Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, TamilNadu,TN
+ 
+		ratings = 4.7
+		insurance =Apollo Munich Health Insurance
+
+		contact =04566 222 943
+
+	19
+		name = Gomathi Speciality Hospital
+
+		logo = 
+		address = 52, South St, P.Puliampatti, Aruppukkottai, Tamil Nadu ,TN
+
+		ratings = 2.7
+		insurance =Apollo Munich Health Insurance
+
+		contact =04566 220 936
+
+	20
+		name =Geeth Ragunath Hospital
+ 
+		logo = 
+		address =No. 2 Gandhi Nagar, Attur salem dist, salem, Tamil Nadu, TN
+ 
+		ratings = 3.5
+		insurance =Apollo Munich Health Insurance
+
+		contact =098427 50556
+
+	21
+		name = Dr.Loganathan Ortho Paedic Hospital
+
+		logo = 
+		address =Thoppur-Mettur Dam-Bhavani-Erode Rd, Bhavani, Tamil Nadu ,TN
+ 
+		ratings = 2.8
+		insurance =Apollo Munich Health Insurance
+
+		contact =04256 231 702
+
+	22
+		name = Ashok Krishna Hospital
+
+		logo = 
+		address = 60-A,Devapuram, Bhavani, Tamil Nadu, TN
+
+		ratings = 3.9
+		insurance =Apollo Munich Health Insurance
+
+		contact =04256 232 589
+
+	23
+		name =Adithya Hospital
+ 
+		logo = 
+		address =No: 1, 5th Street, Near Bhavani Bus Stand, Varnapuram, Bhavani, Erode, Tamil Nadu, TN
+ 
+		ratings = 4.2
+		insurance =Apollo Munich Health Insurance
+
+		contact =099522 46666
+
+	24
+		name =Vyasini Multispecialty Hospital
+ 
+		logo = 
+		address = Pulikuthi-Bodinayakanur Road, Sillamarathupatti, Tamil Nadu, TN
+
+		ratings = 4.0
+		insurance =Apollo Munich Health Insurance
+
+		contact =4546281435
+
+	25
+		name =Balaji Hospital
+ 
+		logo = 
+		address =Near Head Post Office, No: 14, Dr Varadharajan St, Vedachalam Nagar, Gokulapuram, Chengalpattu, Tamil Nadu,TN
+ 
+		ratings = 3.7
+		insurance =Apollo Munich Health Insurance
+
+		contact =044 2743 1466
+
+	26
+		name =Sree Renga Hospital
+ 
+		logo = 
+		address =No .12 , Varada Reddy Street, Vedachala Nagar, Gokulapuram, Chengalpattu, Tamil Nadu, TN
+ 
+		ratings = 4.5
+		insurance =Apollo Munich Health Insurance
+
+		contact =044 2743 1544
+
+	27
+		name =J.S.P Hospitals (P) Ltd.
+ 
+		logo = 
+		address =No 70, Kanchipuram High Road, Chengalpattu, Tamil Nadu, TN
+ 
+		ratings = 2.9
+		insurance =Apollo Munich Health Insurance
+
+		contact =073731 22766
+
+	28
+		name = Madurai Eye Center
+
+		logo = 
+		address =137, E Periasamy Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN
+ 
+		ratings = 4.5
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 255 3077
+
+	29
+		name =Rao Hospital
+ 
+		logo = 
+		address = 120,West Periasamy Road,R. S. Puram, Coimbatore, Tamil Nadu, TN
+
+		ratings = 4.0
+		insurance =Apollo Munich Health Insurance
+
+		contact =096299 19191
+
+	30
+		name = Aravind Eye Hospital
+
+		logo = 
+		address =Cowley Brown Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN
+ 
+		ratings = 4.6
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 254 0400
+
+	31
+		name =Senthil Hospital
+ 
+		logo = 
+		address = 8/1 VCV Road R.S. Puram, Puthiyavan Nagar, Sukrawar Pettai, R.R Layout, Coimbatore, Tamil Nadu, TN
+
+		ratings = 3.8
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 254 9222
+
+	32
+		name =Rex Ortho Hospital
+ 
+		logo = 
+		address =43, Shanmugam Rd, Puthiyavan Nagar, RR Layout, Sukrawar Pettai, R.S. Puram, Coimbatore, Tamil Nadu, TN 
+ 
+		ratings = 4.0
+		insurance =Apollo Munich Health  Insurance
+
+		contact =0422 254 2542
+
+	33
+		name =Vasan Eye Care Hospital - Kuniyamuthur
+ 
+		logo = 
+		address =450D, Palakkad Main Road, Kuniamuthur PO, Coimbatore, Tamil Nadu, TN
+ 
+		ratings = 4.3
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 398 9050
+
+	34
+		name = Ponnaiah Hospital
+
+		logo = 
+		address =Shop No.232, E TV Swamy Rd, RS Puram East, R.S. Puram, Coimbatore, Tamil Nadu , TN
+ 
+		ratings = 2.9
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 255 3385
+
+	35
+		name = Rasi Hospital
+
+		logo = 
+		address =558, Diwan Bahadur Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN
+ 
+		ratings = 3.9
+		insurance =Apollo Munich Health Insurance,Aditya Birla Health Insurance,Star Health Insurance,Religare Health Insurance
+
+
+
+
+		contact =0422 254 5120
+
+	36
+		name =Lotus Eye Hospital And Institute Ltd.
+ 
+		logo = 
+		address = 155B, E Periasamy Rd, Opposite Chinthamani North, R.S. Puram, Coimbatore, Tamil Nadu, TN
+
+		ratings = 3.9
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 423 9999
+
+	37
+		name = Vasan Eye Care Hospital - R.S. Puram
+
+		logo = 
+		address =81/83 West Thiruvenkatasamy Road Opp. Kamachi Amman Kovil, R.S. Puram, Coimbatore, Tamil Nadu, TN
+ 
+		ratings = 4.3
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 330 0004
+
+	38
+		name =Vedanayagam Hospital (P) Ltd
+ 
+		logo = 
+		address =No.52, (Old No.133), East Bashyakaralu Road, RS Puram, Coimbatore, Tamil Nadu,TN
+ 
+		ratings = 4.1
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 254 0066
+
+	39
+		name = Vikram Ent Hospital & Research Institute
+
+		logo = 
+		address = 69, Venkatasamy Rd W, R.S. Puram, Coimbatore, Tamil Nadu, TN
+
+		ratings = 4.0
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 255 0633
+
+	40
+		name = Eye Foundation Limited
+
+		logo = 
+		address =582, Diwan Bahadur Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN 
+ 
+		ratings = 4.5
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 424 2000
+
+	41
+		name =Joseph Hospital
+ 
+		logo = 
+		address = 1st Cross Thirumagal Nagar, Peelamedu Pudur, Masakalipalayam, Coimbatore, Tamil Nadu, TN
+
+		ratings = 3.8
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 256 2345
+
+	42
+		name = Nehru Urology Centre
+
+		logo = 
+		address =3rd St, Bharathi Colony, Peelamedu, Coimbatore, Tamil Nadu, TN
+ 
+		ratings =4.0
+		insurance =Apollo Munich Health Insurance
+		contact =094875 63420
+
+	43
+		name = Sumith Hospital
+
+		logo = 
+		address = Villankurichi Rd, Opp GRG Ground, Hope College, Peelamedu, Coimbatore, Tamil Nadu, TN
+
+		ratings = 3.8
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 457 2222
+
+	44
+		name =Uro Care & Kidney Stone Centre
+ 
+		logo = 
+		address =51, 52, Sri Nagar, B.R.Puram, Hope College, Peelamedu,Coimbatore,Tamil Nadu, TN
+ 
+		ratings = 4.2
+		insurance =Apollo Munich Health Insurance
+
+		contact =4222577200
+
+	45
+		name = Psg Hospitals
+
+		logo = 
+		address =Avinashi Rd, Masakalipalayam, Peelamedu, Coimbatore, Tamil Nadu, TN
+ 
+		ratings = 2.8
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 257 0170
+
+	46
+		name = Coimbatore Child Trust Hospital Pvt. Ltd.
+
+		logo = 
+		address = Rajalakshmi mills tennis court, 111 Trichy Road Near, Nanjappa Nagar, Singanallur, Coimbatore, Tamil Nadu,TN 
+
+		ratings = 4.3
+		insurance =Apollo Munich Health Insurance
+
+		contact =0422 257 6111
+
+	
+	47
+		name = Sri Sai Krupa Hospital
+
+		logo = 
+		address =Next to Daily Thandi Office, No.31, Cuddalore Road, Ambedkar Nagar, Orleanpet, Puducherry, PY
+ 
+		ratings =3.8 
+		insurance =Star Health Insurance,Religare Health Insurance,HDFC ERGO General Insurance
+
+
+
+
+		contact =0413 220 2244
+
+	48
+		name =Vasan Eyecare Hospital
+ 
+		logo = 
+		address =No.1, Villupuram Main Road ,Indira Gandhi Square Pondicherry,PY
+ 
+		ratings = 4.2
+		insurance =CignaTTK Health Insurance,Universal Sompo General Insurance,Royal Sundaram General Insurance
+
+
+
+
+		contact =4134340000
+
+	49
+		name = Madhava Hospital
+
+		logo = 
+		address =No 15,pointcare street, Nellitope, Puducherry, PY
+ 
+		ratings = 3.4
+		insurance =IFFCO Tokio General Insurance,Star Health Insurance
+
+
+		contact =0413 220 6500
+
+	50	
+	    name =Sri Mahalakshmi Nursing Home
+
+	    logo =
+	    address =7, 2nd Cross St, Lambert Saravanan Nagar, Kavery Nagar, Reddiarpalayam, Puducherry, PY
+
+	    ratings =4.5
+        insurance =Star Health Insurance
+
+        contact =0413 229 0027
+
+	
+	51	
+	    name =S.S. Remedy Hospital
+
+	    logo =
+	    address =491, Kamaraj Salai Road, Near Annamalai Hotel, Puducherry, PY
+
+	    ratings =4.3
+        insurance =Star Health Insurance
+
+        contact =095008 92211
+
+	
+	52	
+	    name =A.G. Padmavati's Hospital Ltd
+
+	    logo =
+	    address =R.S. 127/1A,Villanur Main Road, Arumparthapuram, Marie Oulgaret, Puducherry, PY
+
+	    ratings =3.9
+        insurance =Royal Sundaram General Insurance
+
+        contact =0413 229 5500
+
+	
+	53	
+	    name =L.K. Nursing Home
+
+	    logo =
+	    address =Surya Institute, block, no 370, 2nd Main Rd, Mahaveer Nagar, Lawspet, Puducherry ,PY
+
+	    ratings =3.6
+        insurance =CignaTTK Health Insurance
+
+        contact =092446 26364
+
+	
+	54
+	    name =Karaikal Medical centre
+
+	    logo =
+	    address =36, Neelakidangu Street, Karaikal, Puducherry ,PY
+
+	    ratings =4.2
+	    insurance =Star Health Insurance
+
+	    contact =04368 228 225
+
+
+	55
+	    name =Apollo Speciality Hospitals
+
+	    logo =
+	    address =5/639, Old Mahabalipuram Road, Perungudi, Tirumalai Nagar, Perungudi, Chennai, Tamil Nadu ,TN
+
+	    ratings =4.6
+	    insurance =Max Bupa Health Insurance
+
+	    contact =044 3322 1111
+
+
+	56
+	    name =Shifa Hospital
+
+	    logo =
+	    address =No.59, Puttukkottai Road, Adirampattinam, Tamil Nadu ,TN
+
+	    ratings =3.8
+	    insurance =Star Health Insurance
+
+	    contact =43 7324 2324
+
+	        
+    57
+	    name =Sri Ram Hospital
+
+	    logo =
+	    address =Ambasamudram -Tenkasi Main Rd, Alangulam, Tamil Nadu ,TN
+
+	    ratings =3.5
+	    insurance =Star Health Insurance
+
+	    contact =04633 272 700
+
+    58
+        name =Dr. Ramanujam Poly Clinic and Surgical Nursing Home
+
+        logo =
+	    address =No: 33, Melaratha Veethi, New Colony, Ambasamudram, Tamil Nadu ,TN
+
+	    ratings =4.0
+	    insurance =Star Health Insurance
+	
+	    contact =04634 251 147
+
+
+	59
+        name =S.K.R Hospital
+
+        logo =
+	    address =91B, Bharathi Nagar, Near Bus Stand ,Veeravanallur, Tamil Nadu ,TN
+
+	    ratings =4.2
+	    insurance =	Star Health Insurance
+
+	    contact =04634 287 214
+
+	    
+	60
+        name =Vasan Eye Care Hospital
+
+        logo =
+	    address =CR Regency, No. 27/1, Bypass Road, Ambur, Tamil Nadu,TN
+
+	    ratings =4.6
+	    insurance =	Aditya Birla Health Insurance,Star Health Insurance,Bajaj Allianz General Insurance
+
+
+
+	    contact =04174 398 900
+
+	    
+	61
+        name =Bethesda Hospital
+
+        logo =
+	    address =Gandhi Nagar, Ambur Plantation R.F. ,Ambur, Tamil Nadu,TN
+
+	    ratings =4.6
+	    insurance =	IFFCO Tokio General Insurance,Star Health Insurance
+
+
+	    contact =4174242131
+
+	    
+	62
+        name =Pranav Hospital
+
+        logo =
+	    address =18/18, Coimbatore Road, Opposite to Union Bank of India,Annur,Coimbatore,Tamil Nadu,TN
+
+	    ratings =4.2
+	    insurance =	Star Health Insurance
+
+	    contact = 4254263900
+      
+
+	63
+        name =NM Hospital
+
+        logo =
+	    address =NH-209, Dindigul to Bangalore Highway, Coimbatore, Tamil Nadu ,TN
+
+	    ratings =3.9
+	    insurance =Star Health Insurance
+	
+	    contact = 4254262131
+  
+	    
+	64
+        name =Velammal Medical College Hospital & Research Institute
+
+        logo =
+	    address =Madurai-Tuticorin Ring Road, Velammal Village, Anuppanadi, Near Chinthamani Toll Gate, Madurai, Tamil Nadu ,TN
+
+	    ratings =4.5
+	    insurance =	Star Health Insurance
+
+	    contact =0452 711 3333
+ 
+	    
+	65
+        name =Shri Saradha Hospital
+
+        logo =
+	    address =Peravurani - Aranthangi Rd, Aranthangi, Tamil Nadu ,TN
+
+	    ratings =3.3
+	    insurance =	Star Health Insurance,CignaTTK Health Insurance
+
+
+	    contact = 04371 222 727
+ 
+
+	66
+        name =Janagiram Multispeciality Hospital & Research Centre
+
+        logo =
+	    address =SH 29, Aranthangi, Tamil Nadu ,TN
+
+	    ratings =3.5
+	    insurance =	Star Health Insurance
+
+	    contact =4371222765
+
+	    
+	67
+        name =Nivedha Hospital
+
+        logo =
+	    address =M.S.P. Nagar, Dharapuram, Tamil Nadu ,TN
+
+	    ratings =3.6
+	    insurance =Star Health Insurance
+	
+	    contact = 4329944286
+    
+
+
+	68
+        name =Ariyalur Golden Hospital Pvt Ltd
+
+        logo =
+	    address =Ariyalur - Sendurai Rd, Periyar Nagar, Vila Ngara, Ariyalur, Tamil Nadu,TN
+
+	    ratings =4.4
+	    insurance =	Religare Health Insurance,Star Health Insurance
+
+
+	    contact = 094875 76493
+  
+	    
+
+	69
+        name =KMS Hospital
+
+        logo =
+	    address =MIN Nagar, Ariyalur, Tamil Nadu ,TN
+
+	    ratings =4.3
+	    insurance =Star Health Insurance
+	
+	    contact =4329222199
+   
+	    
+
+	70
+        name =M.M. Hospital
+
+        logo =
+	    address =No:105, Railway Station Road, Rajaji Nagar,Ariyalur,Tamil Nadu,TN
+
+	    ratings =3.5
+	    insurance =	Star Health Insurance
+
+	    contact =04329 222 433
+   
+	    
+
+	71
+        name =Suriya Hospital
+
+        logo =
+	    address =No.253, Sathya Moorchy Road, Arani, Tamil Nadu,TN
+
+	    ratings =3.8
+	    insurance =Star Health Insurance
+	
+	    contact = 04173 228 958
+                        
+
+	72
+        name =Krishna Hospital
+
+
+        logo =
+	    address =344, Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, Tamil Nadu,TN
+
+	    ratings =4.2
+	    insurance =Star Health Insurance,Religare Health Insurance
+
+	
+	    contact =04566 228 571
+                                          
+	    
+	73
+        name =Gomathi Speciality Hospital
+
+        logo =
+	    address =52, South St, Aruppukkottai, Tamil Nadu ,TN
+
+	    ratings =4.0
+	    insurance =IFFCO Tokio General Insurance,Star Health Insurance,Apollo Munich Health Insurance
+
+
+	
+	    contact =04566 220 936
+                                            
+	    
+	74
+        name =Vaani Hospital
+
+        logo =
+	    address =289, Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, Tamil Nadu,TN
+
+	    ratings =3.8
+	    insurance =Star Health Insurance,Religare Health Insurance
+
+	
+	    contact =04566 228 885
+                                            
+	    
+	75
+        name =Shri Lakshmi Clinic
+
+
+        logo =
+	    address =190 Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, Tamil Nadu ,TN
+
+	    ratings =3.7
+	    insurance =Star Health Insurance,Apollo Munich Health Insurance
+
+	
+	    contact = 04566 222 943
+    
+
+	76
+        name =Vigneshwara Hospital
+
+        logo =
+	    address =65 South St, Vellai Kottai, Aruppukkottai, Tamil Nadu ,TN
+
+	    ratings =4.3
+	    insurance =Star Health Insurance
+	
+	    contact = 4566220155
+  
+	    
+	77
+        name =J.K. Nursing Home
+
+        logo =
+	    address =Thiruchuli Road,Vellai Kottai, Aruppukkottai, Tamil Nadu ,TN 
+
+	    ratings =3.9
+	    insurance =	Star Health Insurance
+
+	    contact =4566222941
+  
+	    
+	                                                                                     

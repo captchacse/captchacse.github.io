@@ -1,0 +1,119 @@
+{
+  "DocType" : {
+    "01" : {
+      "description" : "Paediatrician",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/01.png",
+      "name" : "Child Specialist"
+    },
+    "02" : {
+      "description" : "Dentist",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "name" : "Dental Care"
+    },
+    "03" : {
+      "description" : "General Practitioner",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/03.png",
+      "name" : "General Doctor"
+    },
+    "04" : {
+      "description" : "Obstetrician",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/04.png",
+      "name" : "Woman's Health"
+    },
+    "05" : {
+      "description" : "Surgeon",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/05.png",
+      "name" : "General Surgery"
+    },
+    "06" : {
+      "description" : "Orthopedists",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/06.png",
+      "name" : "Bone and Joints"
+    },
+    "07" : {
+      "description" : "Neurologist",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/07.png",
+      "name" : "Brain and Nerves"
+    },
+    "08" : {
+      "description" : "ENT Physician",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/08.png",
+      "name" : "Ear Nose Throat"
+    },
+    "09" : {
+      "description" : "Opthalmologist",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/09.png",
+      "name" : "Eye Specialist"
+    },
+    "10" : {
+      "description" : "Physiotherapists",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/10.png",
+      "name" : "Physiotherapy"
+    },
+    "11" : {
+      "description" : "Cardiologists",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/11.png",
+      "name" : "Heart"
+    }
+  },
+  "IRDA" : {
+    "01" : {
+      "coverage" : "It is a unique plan which automatically reinstates the basic sum insured, for no extra charge, in case you exhaust it within a policy year. The Sum Insured will be 3 Lacs to 50 Lacs",
+      "eligibility" : "Children-91 days/Adults-18 years to 65 years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "a",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/11.png",
+      "plan" : "Africa"
+    },
+    "02" : {
+      "coverage" : "All incidences apart from specified surgeries, Permanent exclusion & Pre-existing diseases (if any). The Sum Insured will be 4 Lacs to 50 Lacs",
+      "eligibility" : "Children-91 days/Adults-18 years to 65 years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "b",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "1.2 Apollo Munich Easy Health Premium Plan"
+    },
+    "03" : {
+      "coverage" : "Under this plan, the pre and post hospitalisation costs are covered. The Sum Insured will be 50 Thousand & 1 lacs.",
+      "eligibility" : "Children-91 days/Adults-18 years to 65 years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "c",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "1.3 Apollo Munich Dengue Care Plan"
+    },
+    "04" : {
+      "coverage" : "Pre Existing Disease 3 Years and Specified Surgeries 2 Years. The Sum Insured will be 2 Lacs, 3 Lacs, 5 Lacs.",
+      "eligibility" : "61 years to No Limit",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "d",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "1.4 Apollo Munich Optima Senior Plan"
+    },
+    "05" : {
+      "coverage" : "A maximum of 6 members can be added under an individual policy with a maximum of 4 Adults (Self, Spouse, Dependent Parents) and maximum 5 Children (Dependant Child can be covered from 18 Years to 25 Years provided both parents are covered in a critical illness policy).The Sum Insured will be Rs. 1 Lac to Rs. 5 Lac in multiples of 1 Lac and thereafter till Rs. 50 Lacs in the multiple of 5 lacs. The maximum sum insured available above 55 years of age is restricted upto Rs. 20 Lacs.",
+      "eligibility" : "18 Years to 65 Years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "e",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "Zumba"
+    }
+  },
+  "User" : {
+    "0988123344" : {
+      "Name" : "Eddydn",
+      "Password" : "1234"
+    },
+    "0988123355" : {
+      "Name" : "EddyLEe",
+      "Password" : "1234"
+    },
+    "0988123388" : {
+      "name" : "Tom Cruise",
+      "password" : "1234"
+    },
+    "9566127832" : {
+      "name" : "Varun LVS",
+      "password" : "varun"
+    }
+  }
+}
