@@ -1,0 +1,1159 @@
+{
+  "DocType" : {
+    "01" : {
+      "description" : "Paediatrician",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/01.png",
+      "name" : "Child Specialist"
+    },
+    "02" : {
+      "description" : "Dentist",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "name" : "Dental Care"
+    },
+    "03" : {
+      "description" : "General Practitioner",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/03.png",
+      "name" : "General Doctor"
+    },
+    "04" : {
+      "description" : "Obstetrician",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/04.png",
+      "name" : "Woman's Health"
+    },
+    "05" : {
+      "description" : "Surgeon",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/05.png",
+      "name" : "General Surgery"
+    },
+    "06" : {
+      "description" : "Orthopedists",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/06.png",
+      "name" : "Bone and Joints"
+    },
+    "07" : {
+      "description" : "Neurologist",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/07.png",
+      "name" : "Brain and Nerves"
+    },
+    "08" : {
+      "description" : "ENT Physician",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/08.png",
+      "name" : "Ear Nose Throat"
+    },
+    "09" : {
+      "description" : "Opthalmologist",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/09.png",
+      "name" : "Eye Specialist"
+    },
+    "10" : {
+      "description" : "Physiotherapists",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/10.png",
+      "name" : "Physiotherapy"
+    },
+    "11" : {
+      "description" : "Cardiologists",
+      "image" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/11.png",
+      "name" : "Heart"
+    }
+  },
+  "Hospitals" : {
+    "01" : {
+      "hkeyword" : "nephroplus",
+      "haddress" : "KG Hospital, Govt Arts College Road, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 437 6808",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/1.png",
+      "hname" : "Nephroplus Kidney Care Centre - Sahrudaya Hospital",
+      "hratings" : "4.8"
+    },
+    "02" : {
+      "hkeyword" : "nephroplus",
+      "haddress" : "XYZ",
+      "hcontact" : "0422 337 6808",
+      "hinsurance" : "Bajaj Allianz General Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/2.png",
+      "hname" : "Nephroplus Dialysis Center - Allapuzha",
+      "hratings" : "4.6"
+    },
+    "03" : {
+      "hkeyword" : "sahrudaya",
+      "haddress" : "Thondankulangara,Thathampally,Alappuzha,Kerala-688013",
+      "hcontact" : "4134004677",
+      "hinsurance" : "Star Health Insurance,Apollo Munich Health Insurance,Bajaj Allianz General Insurance, Religare Health Insurance,Aditya Birla Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/3.png",
+      "hname" : "Sahrudaya Hospital Alappuzha",
+      "hratings" : "3.6"
+    },
+    "04" : {
+      "hkeyword" : "bewell",
+      "haddress" : "No. 15, Ecr, Lawspet, Green Gardens,Pondicherry,PY",
+      "hcontact" : "4134004677",
+      "hinsurance" : "Apollo Munich Health Insurance,IFFCO Tokio General Insurance,ICICI Lombard General Insurance,Aditya Birla Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/4.png",
+      "hname" : "Be Well Hospitals",
+      "hratings" : "3.9"
+    },
+    "05" : {
+      "hkeyword" : "vasan",
+      "haddress" : "No.1, Villupuram Main Road ,Indira Gandhi Square Pondicherry,PY",
+      "hcontact" : "4134340000",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/5.png",
+      "hname" : "Vasan Eyecare Hospital",
+      "hratings" : "4.2"
+    },
+    "06" : {
+      "hkeyword" : "rani",
+      "haddress" : "27, Vazhuthavur Road,Pondicherry ,PY",
+      "hcontact" : "2272905227",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/6.png",
+      "hname" : "Rani Hospital",
+      "hratings" : "2.9"
+    },
+    "07" : {
+      "hkeyword" : "pondicherry",
+      "haddress" : "No 20, Ganapathichettikulam Village ,Kalapet ,Pondicherry,PY",
+      "hcontact" : "4132655274",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/7.png",
+      "hname" : "Pondicherry Institute Of Medical Science",
+      "hratings" : "4.1"
+    },
+    "08" : {
+      "hkeyword" : "auromed",
+      "haddress" : "1,Sabthagiri Garden,Solai Nagar Main Road,Muthialpet,Pondicherry,PY",
+      "hcontact" : "41332233500",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/8.png",
+      "hname" : "Auromed Hospitals Private Limited",
+      "hratings" : "4.2"
+    },
+    "09" : {
+      "hkeyword" : "new",
+      "haddress" : "470, M.G.Road,Pondicherry ,PY",
+      "hcontact" : "4132226434",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/9.png",
+      "hname" : "New Medical Centre",
+      "hratings" : "3.4"
+    },
+    "10" : {
+      "hkeyword" : "nalam",
+      "haddress" : "No. 86, Eswaran Koil Street,Pondicherry , PY",
+      "hcontact" : "41323338100",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/10.png",
+      "hname" : "Clinic Nalam",
+      "hratings" : "4.3"
+    },
+    "11" : {
+      "hkeyword" : "venkateshwara",
+      "haddress" : "Pondy-Villupuram Main Road, Ariyur,Pondicherry, PY",
+      "hcontact" : "4132644482",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/11.png",
+      "hname" : "Sri Venkateshwara Medical College Hospital & Research Centre",
+      "hratings" : "3.9"
+    },
+    "12" : {
+      "hkeyword" : "manakula",
+      "haddress" : "Kalitheerthalkuppam, Madagadipet, Pondicherry, PY",
+      "hcontact" : "4132643000",
+      "hinsurance" : "Apollo Munich Health Insurance,Royal Sundaram General Insurance,HDFC ERGO General Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/12.png",
+      "hname" : "Sri Manakula Vinayagar Medical College And Hospital",
+      "hratings" : "4.6"
+    },
+    "13" : {
+      "hkeyword" : "padmavati",
+      "haddress" : "R. S. 127/1A/1A/1A/A, Villianur Main Road, Arumparthapuram, Pondicherry ,PY",
+      "hcontact" : "4132295500",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/13.png",
+      "hname" : "A. G. Padmavati'S Hospital Ltd.",
+      "hratings" : "3.5"
+    },
+    "14" : {
+      "hkeyword" : "mahatma",
+      "haddress" : "Cuddalore road, Pondy Main Road, Pillaiyarkuppam,Puducherry,PY",
+      "hcontact" : "04132615449 ,413261545",
+      "hinsurance" : "Apollo Munich Health Insurance,Royal Sundaram General Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/14.png",
+      "hname" : "Mahatma Gandhi Medical College And Research Institute",
+      "hratings" : "4.0"
+    },
+    "15" : {
+      "hkeyword" : "east",
+      "haddress" : "No 1, Perambai Road, Paris Nagar, Moolakulam,Puducherry,PY",
+      "hcontact" : "4132297800",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/15.png",
+      "hname" : "East Coast Hospital Ltd",
+      "hratings" : "3.4"
+    },
+    "16" : {
+      "hkeyword" : "pgk",
+      "haddress" : "54, Kannapan Kinnarv St., Behind SAST Primary School, Ward -2 ,Anthiyur,TamilNadu,TN",
+      "hcontact" : "4256261416",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/16.png",
+      "hname" : "Pgk. Nursing Home",
+      "hratings" : "3.7"
+    },
+    "17" : {
+      "hkeyword" : "city",
+      "haddress" : "Aziz Nagar, No 1 B, Railway Feeder Rd, Vasantham Nagar, Aruppukkottai,TamilNadu,TN",
+      "hcontact" : "04566 221 888",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/17.png",
+      "hname" : "City Hospital",
+      "hratings" : "4.3"
+    },
+    "18" : {
+      "hkeyword" : "shri",
+      "haddress" : "Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, TamilNadu,TN",
+      "hcontact" : "04566 222 943",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/18.png",
+      "hname" : "Shri Lakshmi Clinic",
+      "hratings" : "4.7"
+    },
+    "19" : {
+      "hkeyword" : "gomathi",
+      "haddress" : "52, South St, P.Puliampatti, Aruppukkottai, Tamil Nadu ,TN",
+      "hcontact" : "04566 220 936",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/19.png",
+      "hname" : "Gomathi Speciality Hospital",
+      "hratings" : "2.7"
+    },
+    "20" : {
+      "hkeyword" : "geeth",
+      "haddress" : "No. 2 Gandhi Nagar, Attur salem dist, salem, Tamil Nadu, TN",
+      "hcontact" : "098427 50556",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/20.png",
+      "hname" : "Geeth Ragunath Hospital",
+      "hratings" : "3.5"
+    },
+    "21" : {
+      "hkeyword" : "loganathan",
+      "haddress" : "Thoppur-Mettur Dam-Bhavani-Erode Rd, Bhavani, Tamil Nadu ,TN",
+      "hcontact" : "04256 231 702",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/21.png",
+      "hname" : "Dr.Loganathan Ortho Paedic Hospital",
+      "hratings" : "2.8"
+    },
+    "22" : {
+      "hkeyword" : "ashok",
+      "haddress" : "60-A,Devapuram, Bhavani, Tamil Nadu, TN",
+      "hcontact" : "04256 232 589",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/22.png",
+      "hname" : "Ashok Krishna Hospital",
+      "hratings" : "3.9"
+    },
+    "23" : {
+      "hkeyword" : "adithya",
+      "haddress" : "No: 1, 5th Street, Near Bhavani Bus Stand, Varnapuram, Bhavani, Erode, Tamil Nadu, TN",
+      "hcontact" : "099522 46666",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/23.png",
+      "hname" : "Adithya Hospital",
+      "hratings" : "4.2"
+    },
+    "24" : {
+      "hkeyword" : "vyasini",
+      "haddress" : "Pulikuthi-Bodinayakanur Road, Sillamarathupatti, Tamil Nadu, TN",
+      "hcontact" : "4546281435",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/24.png",
+      "hname" : "Vyasini Multispecialty Hospital",
+      "hratings" : "4.0"
+    },
+    "25" : {
+      "hkeyword" : "balaji",
+      "haddress" : "Near Head Post Office, No: 14, Dr Varadharajan St, Vedachalam Nagar, Gokulapuram, Chengalpattu, Tamil Nadu,TN",
+      "hcontact" : "044 2743 1466",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/25.png",
+      "hname" : "Balaji Hospital",
+      "hratings" : "3.7"
+    },
+    "26" : {
+      "hkeyword" : "ranga",
+      "haddress" : "No .12 , Varada Reddy Street, Vedachala Nagar, Gokulapuram, Chengalpattu, Tamil Nadu, TN",
+      "hcontact" : "044 2743 1544",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/26.png",
+      "hname" : "Sree Renga Hospital",
+      "hratings" : "4.5"
+    },
+    "27" : {
+      "hkeyword" : "jsp",
+      "haddress" : "No 70, Kanchipuram High Road, Chengalpattu, Tamil Nadu, TN",
+      "hcontact" : "073731 22766",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/27.png",
+      "hname" : "J.S.P Hospitals (P) Ltd.",
+      "hratings" : "2.9"
+    },
+    "28" : {
+      "hkeyword" : "madurai",
+      "haddress" : "137, E Periasamy Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 255 3077",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/28.png",
+      "hname" : "Madurai Eye Center",
+      "hratings" : "4.5"
+    },
+    "29" : {
+      "hkeyword" : "rao",
+      "haddress" : "120,West Periasamy Road,R. S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "096299 19191",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/29.png",
+      "hname" : "Rao Hospital",
+      "hratings" : "4.0"
+    },
+    "30" : {
+      "hkeyword" : "aravind",
+      "haddress" : "Cowley Brown Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 254 0400",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/30.png",
+      "hname" : "Aravind Eye Hospital",
+      "hratings" : "4.6"
+    },
+    "31" : {
+      "hkeyword" : "senthil",
+      "haddress" : "8/1 VCV Road R.S. Puram, Puthiyavan Nagar, Sukrawar Pettai, R.R Layout, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 254 9222",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/31.png",
+      "hname" : "Senthil Hospital",
+      "hratings" : "3.8"
+    },
+    "32" : {
+      "hkeyword" : "rex",
+      "haddress" : "43, Shanmugam Rd, Puthiyavan Nagar, RR Layout, Sukrawar Pettai, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 254 2542",
+      "hinsurance" : "Apollo Munich Health  Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/32.png",
+      "hname" : "Rex Ortho Hospital",
+      "hratings" : "4.0"
+    },
+    "33" : {
+      "hkeyword" : "vasan",
+      "haddress" : "450D, Palakkad Main Road, Kuniamuthur PO, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 398 9050",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/33.png",
+      "hname" : "Vasan Eye Care Hospital - Kuniyamuthur",
+      "hratings" : "4.3"
+    },
+    "34" : {
+      "hkeyword" : "ponnaiah",
+      "haddress" : "Shop No.232, E TV Swamy Rd, RS Puram East, R.S. Puram, Coimbatore, Tamil Nadu , TN",
+      "hcontact" : "0422 255 3385",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/34.png",
+      "hname" : "Ponnaiah Hospital",
+      "hratings" : "2.9"
+    },
+    "35" : {
+      "hkeyword" : "rasi",
+      "haddress" : "558, Diwan Bahadur Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 254 5120",
+      "hinsurance" : "Apollo Munich Health Insurance,Aditya Birla Health Insurance,Star Health Insurance,Religare Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/35.png",
+      "hname" : "Rasi Hospital",
+      "hratings" : "3.9"
+    },
+    "36" : {
+      "hkeyword" : "lotus",
+      "haddress" : "155B, E Periasamy Rd, Opposite Chinthamani North, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 423 9999",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/36.png",
+      "hname" : "Lotus Eye Hospital And Institute Ltd.",
+      "hratings" : "3.9"
+    },
+    "37" : {
+      "hkeyword" : "vasan",
+      "haddress" : "81/83 West Thiruvenkatasamy Road Opp. Kamachi Amman Kovil, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 330 0004",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/37.png",
+      "hname" : "Vasan Eye Care Hospital - R.S. Puram",
+      "hratings" : "4.3"
+    },
+    "38" : {
+      "hkeyword" : "vedanayagam",
+      "haddress" : "No.52, (Old No.133), East Bashyakaralu Road, RS Puram, Coimbatore, Tamil Nadu,TN",
+      "hcontact" : "0422 254 0066",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/38.png",
+      "hname" : "Vedanayagam Hospital (P) Ltd",
+      "hratings" : "4.1"
+    },
+    "39" : {
+      "hkeyword" : "vikram",
+      "haddress" : "69, Venkatasamy Rd W, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 255 0633",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/39.png",
+      "hname" : "Vikram Ent Hospital & Research Institute",
+      "hratings" : "4.0"
+    },
+    "40" : {
+      "hkeyword" : "eye",
+      "haddress" : "582, Diwan Bahadur Rd, R.S. Puram, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 424 2000",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/40.png",
+      "hname" : "Eye Foundation Limited",
+      "hratings" : "4.5"
+    },
+    "41" : {
+      "hkeyword" : "joseph",
+      "haddress" : "1st Cross Thirumagal Nagar, Peelamedu Pudur, Masakalipalayam, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 256 2345",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/41.png",
+      "hname" : "Joseph Hospital",
+      "hratings" : "3.8"
+    },
+    "42" : {
+      "hkeyword" : "nehru",
+      "haddress" : "3rd St, Bharathi Colony, Peelamedu, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "094875 63420",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/42.png",
+      "hname" : "Nehru Urology Centre",
+      "hratings" : "4.0"
+    },
+    "43" : {
+      "hkeyword" : "sumith",
+      "haddress" : "Villankurichi Rd, Opp GRG Ground, Hope College, Peelamedu, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 457 2222",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/43.png",
+      "hname" : "Sumith Hospital",
+      "hratings" : "3.8"
+    },
+    "44" : {
+      "hkeyword" : "uro",
+      "haddress" : "51, 52, Sri Nagar, B.R.Puram, Hope College, Peelamedu,Coimbatore,Tamil Nadu, TN",
+      "hcontact" : "4222577200",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/44.png",
+      "hname" : "Uro Care & Kidney Stone Centre",
+      "hratings" : "4.2"
+    },
+    "45" : {
+      "hkeyword" : "psg",
+      "haddress" : "Avinashi Rd, Masakalipalayam, Peelamedu, Coimbatore, Tamil Nadu, TN",
+      "hcontact" : "0422 257 0170",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/45.png",
+      "hname" : "Psg Hospitals",
+      "hratings" : "2.8"
+    },
+    "46" : {
+      "hkeyword" : "coimbatore",
+      "haddress" : "Rajalakshmi mills tennis court, 111 Trichy Road Near, Nanjappa Nagar, Singanallur, Coimbatore, Tamil Nadu,TN",
+      "hcontact" : "0422 257 6111",
+      "hinsurance" : "Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/46.png",
+      "hname" : "Coimbatore Child Trust Hospital Pvt. Ltd.",
+      "hratings" : "4.3"
+    },
+    "47" : {
+      "hkeyword" : "shri",
+      "haddress" : "Next to Daily Thandi Office, No.31, Cuddalore Road, Ambedkar Nagar, Orleanpet, Puducherry, PY",
+      "hcontact" : "0413 220 2244",
+      "hinsurance" : "Star Health Insurance,Religare Health Insurance,HDFC ERGO General Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/47.png",
+      "hname" : "Shri Sai Krupa Hospital",
+      "hratings" : "3.8"
+    },
+    "48" : {
+      "hkeyword" : "vasan",
+      "haddress" : "No.1, Villupuram Main Road ,Indira Gandhi Square Pondicherry,PY",
+      "hcontact" : "4134340000",
+      "hinsurance" : "CignaTTK Health Insurance,Universal Sompo General Insurance,Royal Sundaram General Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/48.png",
+      "hname" : "Vasan Eyecare Hospital",
+      "hratings" : "4.2"
+    },
+    "49" : {
+      "hkeyword" : "madhava",
+      "haddress" : "No 15,pointcare street, Nellitope, Puducherry, PY",
+      "hcontact" : "0413 220 6500",
+      "hinsurance" : "IFFCO Tokio General Insurance,Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/49.png",
+      "hname" : "Madhava Hospital",
+      "hratings" : "3.4"
+    },
+    "50" : {
+      "hkeyword" : "mahalakshmi",
+      "haddress" : "7, 2nd Cross St, Lambert Saravanan Nagar, Kavery Nagar, Reddiarpalayam, Puducherry, PY",
+      "hcontact" : "0413 229 0027",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/50.png",
+      "hname" : "Sri Mahalakshmi Nursing Home",
+      "hratings" : "4.5"
+    },
+    "51" : {
+      "hkeyword" : "ssremedy",
+      "haddress" : "491, Kamaraj Salai Road, Near Annamalai Hotel, Puducherry, PY",
+      "hcontact" : "095008 92211",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/51.png",
+      "hname" : "S.S. Remedy Hospital",
+      "hratings" : "4.3"
+    },
+    "52" : {
+      "hkeyword" : "padmavati",
+      "haddress" : "R.S. 127/1A,Villanur Main Road, Arumparthapuram, Marie Oulgaret, Puducherry, PY",
+      "hcontact" : "0413 229 5500",
+      "hinsurance" : "Royal Sundaram General Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/52.png",
+      "hname" : "A.G. Padmavati's Hospital Ltd",
+      "hratings" : "3.9"
+    },
+    "53" : {
+      "hkeyword" : "lk",
+      "haddress" : "Surya Institute, block, no 370, 2nd Main Rd, Mahaveer Nagar, Lawspet, Puducherry ,PY",
+      "hcontact" : "092446 26364",
+      "hinsurance" : "CignaTTK Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/53.png",
+      "hname" : "L.K. Nursing Home",
+      "hratings" : "3.6"
+    },
+    "54" : {
+      "hkeyword" : "karaikal",
+      "haddress" : "36, Neelakidangu Street, Karaikal, Puducherry ,PY",
+      "hcontact" : "04368 228 225",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/54.png",
+      "hname" : "Karaikal Medical centre",
+      "hratings" : "4.2"
+    },
+    "55" : {
+      "hkeyword" : "apollo",
+      "haddress" : "5/639, Old Mahabalipuram Road, Perungudi, Tirumalai Nagar, Perungudi, Chennai, Tamil Nadu ,TN",
+      "hcontact" : "044 3322 1111",
+      "hinsurance" : "Max Bupa Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/55.png",
+      "hname" : "Apollo Speciality Hospitals",
+      "hratings" : "4.6"
+    },
+    "56" : {
+      "hkeyword" : "shifa",
+      "haddress" : "No.59, Puttukkottai Road, Adirampattinam, Tamil Nadu ,TN",
+      "hcontact" : "43 7324 2324",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/56.png",
+      "hname" : "Shifa Hospital",
+      "hratings" : "3.8"
+    },
+    "57" : {
+      "hkeyword" : "shri",
+      "haddress" : "Ambasamudram -Tenkasi Main Rd, Alangulam, Tamil Nadu ,TN",
+      "hcontact" : "04633 272 700",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/57.png",
+      "hname" : "Shri Ram Hospital",
+      "hratings" : "3.5"
+    },
+    "58" : {
+      "hkeyword" : "ramanujam",
+      "haddress" : "No: 33, Melaratha Veethi, New Colony, Ambasamudram, Tamil Nadu ,TN",
+      "hcontact" : "04634 251 147",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/58.png",
+      "hname" : "Dr. Ramanujam Poly Clinic and Surgical Nursing Home",
+      "hratings" : "4.0"
+    },
+    "59" : {
+      "hkeyword" : "skr",
+      "haddress" : "91B, Bharathi Nagar, Near Bus Stand ,Veeravanallur, Tamil Nadu ,TN",
+      "hcontact" : "04634 287 214",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/59.png",
+      "hname" : "S.K.R Hospital",
+      "hratings" : "4.2"
+    },
+    "60" : {
+      "hkeyword" : "vasan",
+      "haddress" : "CR Regency, No. 27/1, Bypass Road, Ambur, Tamil Nadu,TN",
+      "hcontact" : "04174 398 900",
+      "hinsurance" : "Aditya Birla Health Insurance,Star Health Insurance,Bajaj Allianz General Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/60.png",
+      "hname" : "Vasan Eye Care Hospital",
+      "hratings" : "4.6"
+    },
+    "61" : {
+      "hkeyword" : "bethesda",
+      "haddress" : "Gandhi Nagar, Ambur Plantation R.F. ,Ambur, Tamil Nadu,TN",
+      "hcontact" : "4174242131",
+      "hinsurance" : "IFFCO Tokio General Insurance,Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/61.png",
+      "hname" : "Bethesda Hospital",
+      "hratings" : "4.6"
+    },
+    "62" : {
+      "hkeyword" : "pranav",
+      "haddress" : "18/18, Coimbatore Road, Opposite to Union Bank of India,Annur,Coimbatore,Tamil Nadu,TN",
+      "hcontact" : "4254263900",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/62.png",
+      "hname" : "Pranav Hospital",
+      "hratings" : "4.2"
+    },
+    "63" : {
+      "hkeyword" : "nm",
+      "haddress" : "NH-209, Dindigul to Bangalore Highway, Coimbatore, Tamil Nadu ,TN",
+      "hcontact" : "4254262131",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/63.png",
+      "hname" : "NM Hospital",
+      "hratings" : "3.9"
+    },
+    "64" : {
+      "hkeyword" : "velammal",
+      "haddress" : "Madurai-Tuticorin Ring Road, Velammal Village, Anuppanadi, Near Chinthamani Toll Gate, Madurai, Tamil Nadu ,TN",
+      "hcontact" : "0452 711 3333",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/64.png",
+      "hname" : "Velammal Medical College Hospital & Research Institute",
+      "hratings" : "4.5"
+    },
+    "65" : {
+      "hkeyword" : "shri",
+      "haddress" : "Peravurani - Aranthangi Rd, Aranthangi, Tamil Nadu ,TN",
+      "hcontact" : "04371 222 727",
+      "hinsurance" : "Star Health Insurance,CignaTTK Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/65.png",
+      "hname" : "Shri Saradha Hospital",
+      "hratings" : "3.3"
+    },
+    "66" : {
+      "hkeyword" : "janagiram",
+      "haddress" : "SH 29, Aranthangi, Tamil Nadu ,TN",
+      "hcontact" : "4371222765",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/66.png",
+      "hname" : "Janagiram Multispeciality Hospital & Research Centre",
+      "hratings" : "3.5"
+    },
+    "67" : {
+      "hkeyword" : "nivedha",
+      "haddress" : "M.S.P. Nagar, Dharapuram, Tamil Nadu ,TN",
+      "hcontact" : "4329944286",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/67.png",
+      "hname" : "Nivedha Hospital",
+      "hratings" : "3.6"
+    },
+    "68" : {
+      "hkeyword" : "ariyalur",
+      "haddress" : "Ariyalur - Sendurai Rd, Periyar Nagar, Vila Ngara, Ariyalur, Tamil Nadu,TN",
+      "hcontact" : "094875 76493",
+      "hinsurance" : "Religare Health Insurance,Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/68.png",
+      "hname" : "Ariyalur Golden Hospital Pvt Ltd",
+      "hratings" : "4.4"
+    },
+    "69" : {
+      "hkeyword" : "kms",
+      "haddress" : "MIN Nagar, Ariyalur, Tamil Nadu ,TN",
+      "hcontact" : "4329222199",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/69.png",
+      "hname" : "KMS Hospital",
+      "hratings" : "4.3"
+    },
+    "70" : {
+      "hkeyword" : "mm",
+      "haddress" : "No:105, Railway Station Road, Rajaji Nagar,Ariyalur,Tamil Nadu,TN",
+      "hcontact" : "04329 222 433",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/70.png",
+      "hname" : "M.M. Hospital",
+      "hratings" : "3.5"
+    },
+    "71" : {
+      "hkeyword" : "suriya",
+      "haddress" : "No.253, Sathya Moorchy Road, Arani, Tamil Nadu,TN",
+      "hcontact" : "04173 228 958",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/71.png",
+      "hname" : "Suriya Hospital",
+      "hratings" : "3.8"
+    },
+    "72" : {
+      "hkeyword" : "krishna",
+      "haddress" : "344, Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, Tamil Nadu,TN",
+      "hcontact" : "04566 228 571",
+      "hinsurance" : "Star Health Insurance,Religare Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/72.png",
+      "hname" : "Krishna Hospital",
+      "hratings" : "4.2"
+    },
+    "73" : {
+      "hkeyword" : "gomathi",
+      "haddress" : "52, South St, Aruppukkottai, Tamil Nadu ,TN",
+      "hcontact" : "04566 220 936",
+      "hinsurance" : "IFFCO Tokio General Insurance,Star Health Insurance,Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/73.png",
+      "hname" : "Gomathi Speciality Hospital",
+      "hratings" : "4.0"
+    },
+    "74" : {
+      "hkeyword" : "vaani",
+      "haddress" : "289, Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, Tamil Nadu,TN",
+      "hcontact" : "04566 228 885",
+      "hinsurance" : "Star Health Insurance,Religare Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/74.png",
+      "hname" : "Vaani Hospital",
+      "hratings" : "3.8"
+    },
+    "75" : {
+      "hkeyword" : "shri",
+      "haddress" : "190 Thiruchuli Rd, Chokkalingapuram, Aruppukkottai, Tamil Nadu ,TN",
+      "hcontact" : "04566 222 943",
+      "hinsurance" : "Star Health Insurance,Apollo Munich Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/75.png",
+      "hname" : "Shri Lakshmi Clinic",
+      "hratings" : "3.7"
+    },
+    "76" : {
+      "hkeyword" : "vignesh",
+      "haddress" : "65 South St, Vellai Kottai, Aruppukkottai, Tamil Nadu ,TN",
+      "hcontact" : "4566220155",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/76.png",
+      "hname" : "Vigneshwara Hospital",
+      "hratings" : "4.3"
+    },
+    "77" : {
+      "hkeyword" : "jknursing",
+      "haddress" : "Thiruchuli Road,Vellai Kottai, Aruppukkottai, Tamil Nadu ,TN",
+      "hcontact" : "4566222941",
+      "hinsurance" : "Star Health Insurance",
+      "hlogo" : "https://captchacse.github.io/Hippocrates/hospital_images/77.png",
+      "hname" : "J.K. Nursing Home",
+      "hratings" : "3.9"
+    }
+  },
+  "Diagnosis": {
+    "10": {
+      "dgtestname": "Esophageal scierotherapy for varices First sitting",
+      "dghospital": "City Hospital",
+      "dgprice": "850.00",
+      "dgaddress": "Kayamkulam, Nearksrtc Busstand",
+      "dgcontact": "0479-2443316"
+    },
+    "11": {
+      "dgtestname": "Abdomen & pelvis for K.U.B.",
+      "dghospital": "Deepa Hospital",
+      "dgprice": "1,100.00",
+      "dgaddress": "Alappuzha",
+      "dgcontact": "0479-2492234"
+    },
+    "12": {
+      "dgtestname": "Quick look check-up for IUCD & Infants",
+      "dghospital": "Josco Hospital",
+      "dgprice": "1,275.00",
+      "dgaddress": "Kochalummoodu Pandalam Road, Edappon, Kerala 690529, India",
+      "dgcontact": "0479-2300802"
+    },
+    "13": {
+      "dgtestname": "Blood gas analysis with electrotypes",
+      "dghospital": "Medical Trust Hospital",
+      "dgprice": "470.00",
+      "dgaddress": "Kpac Junction, Kayamkulam",
+      "dgcontact": "0479-2445386"
+    },
+    "14": {
+      "dgtestname": "Smear gram-strain examination",
+      "dghospital": "S. H. G Hospital, Green Garden Cherthala",
+      "dgprice": "4,250.00",
+      "dgaddress": "Green Garden Alappuzha",
+      "dgcontact": "0478-2822337"
+    },
+    "15": {
+      "dgtestname": "Manual removal of placenta",
+      "dghospital": "St. Sebastian's Visitation Hospital",
+      "dgprice": "7,225.00",
+      "dgaddress": "Arthunkal P. O. Cherthala",
+      "dgcontact": "0478-2572291"
+    },
+    "16": {
+      "dgtestname": "Examination under anaesthesia",
+      "dghospital": "Century Hospital",
+      "dgprice": "2,040.00",
+      "dgaddress": "Mp1/186, Mulakuzha Po, Chengannur- 689505",
+      "dgcontact": "0478-2445780"
+    },
+    "17": {
+      "dgtestname": "Burst-abdomen repair",
+      "dghospital": "K V M Hospital",
+      "dgprice": "4,250.00",
+      "dgaddress": "Pb No-30, Cherthala Alappuzha Cherthala - 688524",
+      "dgcontact": "0478-2403831"
+    },
+    "18": {
+      "dgtestname": "Operations for Versicouretaric Reflux",
+      "dghospital": "Christos Hospital",
+      "dgprice": "7,650.00",
+      "dgaddress": "No XXIV/228, KPAC Junction, Kallumoodu, Kayamkulam, Alappuzha - 690502",
+      "dgcontact": "0479-3290921"
+    },
+    "19": {
+      "dgtestname": "Reduction of Facial Fractures of Maxilla",
+      "dghospital": "Deepa Hospital",
+      "dgprice": "3,400.00",
+      "dgaddress": "Danappady, Haripad",
+      "dgcontact": "0479-2453084"
+    },
+    "20": {
+      "dgtestname": "Bandage & Strappings for Fractures",
+      "dghospital": "J. J Hospital",
+      "dgprice": "4,250.00",
+      "dgaddress": "Krishnapuram Kayamkulam Alappuzha",
+      "dgcontact": "0479-2433190"
+    },
+    "21": {
+      "dgtestname": "Sequestrectomy & Sancerizations - Deep",
+      "dghospital": "Lourdes Matha Hospital",
+      "dgprice": "9,350.00",
+      "dgaddress": "Pacha Alappuzha",
+      "dgcontact": "0477-2512015"
+    },
+    "22": {
+      "dgtestname": "Tendon Lengthening/Tendon Sutures",
+      "dghospital": "Sahrudaya Hospital",
+      "dgprice": "5,100.00",
+      "dgaddress": "Sarudaya Hospitala Thathampally",
+      "dgcontact": "0477-2052268"
+    },
+    "23": {
+      "dgtestname": "Excision of Brain Tumours - Subtentorial",
+      "dghospital": "Sree Narayana Medical Mission Hospital",
+      "dgprice": "10,200.00",
+      "dgaddress": "Pb #11 Cherthala",
+      "dgcontact": "0478-2720366"
+    },
+    "24": {
+      "dgtestname": "Tendon with Transplant or Graft",
+      "dghospital": "Ursula Hospital",
+      "dgprice": "6,800.00",
+      "dgaddress": "Ambalapuzha",
+      "dgcontact": "0477-2470486"
+    },
+    "25": {
+      "dgtestname": "Close Reduction of Fractures of Limb & P. O. P",
+      "dghospital": "Sree Kanta Puram Hospital",
+      "dgprice": "15,300.00",
+      "dgaddress": "Kandiyoor, Mavelikara - 690103.",
+      "dgcontact": "0479-2102564"
+    },
+    "26": {
+      "dgtestname": "Craniotomy and Evacuation of Haematoma - Extradural",
+      "dghospital": "Huda Trust Hospital",
+      "dgprice": "1,150.00",
+      "dgaddress": "Kumara Puram, Po - Danapadi, Haripad, Alappey, Haripad - 690548",
+      "dgcontact": "0479-2325034"
+    },
+    "27": {
+      "dgtestname": "Open Reduction & Internal Fixation of Fingers & Toes",
+      "dghospital": "City Hospital",
+      "dgprice": "850.00",
+      "dgaddress": "Kayamkulam, Nearksrtc Busstand",
+      "dgcontact": "0479-2043216"
+    },
+    "28": {
+      "dgtestname": "Laminectomy, Excision Disc and Tumours",
+      "dghospital": "Deepa Hospital",
+      "dgprice": "1,100.00",
+      "dgaddress": "Alappuzha",
+      "dgcontact": "0479-2412534"
+    },
+    "29": {
+      "dgtestname": "Nail Plate Fixations for Fracture Neck Femur",
+      "dghospital": "Josco Hospital",
+      "dgprice": "1,275.00",
+      "dgaddress": "Kochalummoodu Pandalam Road, Edappon, Kerala 690529, India",
+      "dgcontact": "0479-2301801"
+    },
+    "30": {
+      "dgtestname": "Excision or other Operations for Scaphoid Fractures",
+      "dghospital": "Medical Trust Hospital",
+      "dgprice": "470.00",
+      "dgaddress": "Kpac Junction, Kayamkulam",
+      "dgcontact": "0479-2435380"
+    },
+    "31": {
+      "dgtestname": "Soft Tissue Operation on Knee",
+      "dghospital": "S. H. G Hospital, Green Garden Cherthala",
+      "dgprice": "4,250.00",
+      "dgaddress": "Green Garden Alappuzha",
+      "dgcontact": "0478-2802337"
+    },
+    "32": {
+      "dgtestname": "Ventriculoatrial Shunt/Ventriculoperitoneal",
+      "dghospital": "St. Sebastian's Visitation Hospital",
+      "dgprice": "7,225.00",
+      "dgaddress": "Arthunkal P. O. Cherthala",
+      "dgcontact": "0478-2372091"
+    },
+    "33": {
+      "dgtestname": "Congential Arteriovenus Fistula",
+      "dghospital": "Century Hospital",
+      "dgprice": "2,040.00",
+      "dgaddress": "Mp1/186, Mulakuzha Po, Chengannur- 689505",
+      "dgcontact": "0478-2405780"
+    },
+    "34": {
+      "dgtestname": "Lymphatics Excision of Subcutaneous Tissues in Lymphoedema",
+      "dghospital": "K V M Hospital",
+      "dgprice": "4,250.00",
+      "dgaddress": "Pb No-30, Cherthala Alappuzha Cherthala - 688524",
+      "dgcontact": "0478-2103531"
+    },
+    "35": {
+      "dgtestname": "Myocutaneous and Fasciocutaneous Flat Procedures for Limbs",
+      "dghospital": "Christos Hospital",
+      "dgprice": "7,650.00",
+      "dgaddress": "No XXIV/228, KPAC Junction, Kallumoodu, Kayamkulam, Alappuzha - 690502",
+      "dgcontact": "0479-2291922"
+    },
+    "36": {
+      "dgtestname": "Thrombendarterectomy",
+      "dghospital": "Deepa Hospital",
+      "dgprice": "3,400.00",
+      "dgaddress": "Danappady, Haripad",
+      "dgcontact": "0479-2422054"
+    },
+    "37": {
+      "dgtestname": "Colon Replacement of Oesophagus",
+      "dghospital": "J. J Hospital",
+      "dgprice": "4,250.00",
+      "dgaddress": "Krishnapuram Kayamkulam Alappuzha",
+      "dgcontact": "0479-2443196"
+    },
+    "38": {
+      "dgtestname": "Excision of Branchial Sinus",
+      "dghospital": "Lourdes Matha Hospital",
+      "dgprice": "9,350.00",
+      "dgaddress": "Pacha Alappuzha",
+      "dgcontact": "0477-2212305"
+    },
+    "39": {
+      "dgtestname": "Malrotation of Intestines Operation",
+      "dghospital": "Sahrudaya Hospital",
+      "dgprice": "5,100.00",
+      "dgaddress": "Sarudaya Hospitala Thathampally",
+      "dgcontact": "0477-2252269"
+    },
+    "40": {
+      "dgtestname": "Nephrectomy for Wilms Tumour",
+      "dghospital": "Sree Narayana Medical Mission Hospital",
+      "dgprice": "10,200.00",
+      "dgaddress": "Pb #11 Cherthala",
+      "dgcontact": "0478-2822366"
+    },
+    "41": {
+      "dgtestname": "Pancreatic Ring Operation",
+      "dghospital": "Ursula Hospital",
+      "dgprice": "6,800.00",
+      "dgaddress": "Ambalapuzha",
+      "dgcontact": "0477-2270466"
+    },
+    "42": {
+      "dgtestname": "Duodenal - Atresia Operation",
+      "dghospital": "Sree Kanta Puram Hospital",
+      "dgprice": "15,300.00",
+      "dgaddress": "Kandiyoor, Mavelikara - 690103.",
+      "dgcontact": "0479-2302764"
+    },
+    "43": {
+      "dgtestname": "Open Resection of the Bladder Neck",
+      "dghospital": "Huda Trust Hospital",
+      "dgprice": "1,150.00",
+      "dgaddress": "Kumara Puram, Po - Danapadi, Haripad, Alappey, Haripad - 690548",
+      "dgcontact": "0479-2425634"
+    },
+    "44": {
+      "dgtestname": "Meatoplasty",
+      "dghospital": "City Hospital",
+      "dgprice": "850.00",
+      "dgaddress": "Kayamkulam, Nearksrtc Busstand",
+      "dgcontact": "0479-2443516"
+    },
+    "45": {
+      "dgtestname": "Diathermy Destruction of Bladder Neoplasm",
+      "dghospital": "Deepa Hospital",
+      "dgprice": "1,100.00",
+      "dgaddress": "Alappuzha",
+      "dgcontact": "0479-2091234"
+    },
+    "46": {
+      "dgtestname": "Ventral and Scar Hernia",
+      "dghospital": "Josco Hospital",
+      "dgprice": "1,275.00",
+      "dgaddress": "Kochalummoodu Pandalam Road, Edappon, Kerala 690529, India",
+      "dgcontact": "0479-2310902"
+    },
+    "47": {
+      "dgtestname": "Primary Suture of Wounds",
+      "dghospital": "Medical Trust Hospital",
+      "dgprice": "470.00",
+      "dgaddress": "Kpac Junction, Kayamkulam",
+      "dgcontact": "0479-2405286"
+    },
+    "48": {
+      "dgtestname": "Skin Flaps - Direct-cross Leg Flaps - Abdominal",
+      "dghospital": "S. H. G Hospital, Green Garden Cherthala",
+      "dgprice": "4,250.00",
+      "dgaddress": "Green Garden Alappuzha",
+      "dgcontact": "0478-2832037"
+    },
+    "49": {
+      "dgtestname": "Rhabdomyosarcoma wide Excision",
+      "dghospital": "St. Sebastian's Visitation Hospital",
+      "dgprice": "7,225.00",
+      "dgaddress": "Arthunkal P. O. Cherthala",
+      "dgcontact": "0478-2572190"
+    },
+    "01": {
+      "dgtestname": "Cold Calorie Test for vestibular function",
+      "dghospital": "Christos Hospital",
+      "dgprice": "7,650.00",
+      "dgaddress": "No XXIV/228, KPAC Junction, Kallumoodu, Kayamkulam, Alappuzha - 690502",
+      "dgcontact": "0479-3298922"
+    },
+    "02": {
+      "dgtestname": "Repair ear lobe",
+      "dghospital": "Deepa Hospital",
+      "dgprice": "3,400.00",
+      "dgaddress": "Danappady, Haripad",
+      "dgcontact": "0479-2413054"
+    },
+    "03": {
+      "dgtestname": "Speech therapy per session of 30 - 40 minutes",
+      "dghospital": "J. J Hospital",
+      "dgprice": "4,250.00",
+      "dgaddress": "Krishnapuram Kayamkulam Alappuzha",
+      "dgcontact": "0479-2443196"
+    },
+    "04": {
+      "dgtestname": "Chalazion operation for Both Eyes",
+      "dghospital": "Lourdes Matha Hospital",
+      "dgprice": "9,350.00",
+      "dgaddress": "Pacha Alappuzha",
+      "dgcontact": "0477-2212305"
+    },
+    "05": {
+      "dgtestname": "Retrobular injection for Both Eyes",
+      "dghospital": "Sahrudaya Hospital",
+      "dgprice": "5,100.00",
+      "dgaddress": "Sarudaya Hospitala Thathampally",
+      "dgcontact": "0477-2252269"
+    },
+    "06": {
+      "dgtestname": "Miscellaneous Breathing Exercises & Postural Drainage",
+      "dghospital": "Sree Narayana Medical Mission Hospital",
+      "dgprice": "10,200.00",
+      "dgaddress": "Pb #11 Cherthala",
+      "dgcontact": "0478-2822366"
+    },
+    "07": {
+      "dgtestname": "Electro therapy U.V. Therapeutic dose",
+      "dghospital": "Ursula Hospital",
+      "dgprice": "6,800.00",
+      "dgaddress": "Ambalapuzha",
+      "dgcontact": "0477-2270466"
+    },
+    "08": {
+      "dgtestname": "Strapping Nasal bone fracture",
+      "dghospital": "Sree Kanta Puram Hospital",
+      "dgprice": "15,300.00",
+      "dgaddress": "Kandiyoor, Mavelikara - 690103.",
+      "dgcontact": "0479-2302764"
+    },
+    "09": {
+      "dgtestname": "Miscellaneous Breathing Exercises & Postural Drainage",
+      "dghospital": "Huda Trust Hospital",
+      "dgprice": "1,150.00",
+      "dgaddress": "Kumara Puram, Po - Danapadi, Haripad, Alappey, Haripad - 690548",
+      "dgcontact": "0479-2425634"
+    }
+  },
+  "IRDA" : {
+    "01" : {
+      "coverage" : "It is a unique plan which automatically reinstates the basic sum insured, for no extra charge, in case you exhaust it within a policy year. The Sum Insured will be 3 Lacs to 50 Lacs",
+      "eligibility" : "Children-91 days/Adults-18 years to 65 years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "a",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/11.png",
+      "plan" : "Africa"
+    },
+    "02" : {
+      "coverage" : "All incidences apart from specified surgeries, Permanent exclusion & Pre-existing diseases (if any). The Sum Insured will be 4 Lacs to 50 Lacs",
+      "eligibility" : "Children-91 days/Adults-18 years to 65 years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "b",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "1.2 Apollo Munich Easy Health Premium Plan"
+    },
+    "03" : {
+      "coverage" : "Under this plan, the pre and post hospitalisation costs are covered. The Sum Insured will be 50 Thousand & 1 lacs.",
+      "eligibility" : "Children-91 days/Adults-18 years to 65 years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "c",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "1.3 Apollo Munich Dengue Care Plan"
+    },
+    "04" : {
+      "coverage" : "Pre Existing Disease 3 Years and Specified Surgeries 2 Years. The Sum Insured will be 2 Lacs, 3 Lacs, 5 Lacs.",
+      "eligibility" : "61 years to No Limit",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "d",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "1.4 Apollo Munich Optima Senior Plan"
+    },
+    "05" : {
+      "coverage" : "A maximum of 6 members can be added under an individual policy with a maximum of 4 Adults (Self, Spouse, Dependent Parents) and maximum 5 Children (Dependant Child can be covered from 18 Years to 25 Years provided both parents are covered in a critical illness policy).The Sum Insured will be Rs. 1 Lac to Rs. 5 Lac in multiples of 1 Lac and thereafter till Rs. 50 Lacs in the multiple of 5 lacs. The maximum sum insured available above 55 years of age is restricted upto Rs. 20 Lacs.",
+      "eligibility" : "18 Years to 65 Years",
+      "iname" : "Apollo Munich Health Insurance Company Limited",
+      "keyword" : "e",
+      "logo" : "https://captchacse.github.io/JSON%20Skeleton/doctype/images/02.png",
+      "plan" : "Zumba"
+    }
+  },
+  "User" : {
+    "0988123344" : {
+      "Name" : "Eddydn",
+      "Password" : "1234"
+    },
+    "0988123355" : {
+      "Name" : "EddyLEe",
+      "Password" : "1234"
+    },
+    "0988123388" : {
+      "name" : "Tom Cruise",
+      "password" : "1234"
+    },
+    "9566127832" : {
+      "name" : "Varun LVS",
+      "password" : "varun"
+    }
+  }
+}

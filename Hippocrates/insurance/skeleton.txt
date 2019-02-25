@@ -1,0 +1,608 @@
+IRDA
+	01 
+		iname = Apollo Munich Health Insurance Company Limited
+		logo =
+		plan = Apollo Munich Optima Restore Insurance Plan
+		coverage = It is a unique plan which automatically reinstates the basic sum insured, for no extra charge, in case you exhaust it within a policy year. The Sum Insured will be 3 Lacs to 50 Lacs 
+		exclusions=Expenses arising from HIV or AIDS and related diseases. Congenital diseases, mental disorder or insanity, cosmetic surgery and weight control treatments. Abuse of intoxicant or hallucinogenic substances like intoxicating drugs and alcohol. Hospitalization due to war or an act of war or due to a nuclear, chemical or biological weapon and radiation of any kind. Pregnancy, dental treatment, external aids and appliances unless covered under the specific Easy Health Insurance Plan. Experimental, investigative and unproven treatment devices and pharmacological regimens. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility = Children-91 days/Adults-18 years to 65 years
+		additionaldiscounts=Family Discount of 10 % for 2 or more family members. Discount for multi-year polices-7.5% discount for opting 2 yr policy tenure
+	02
+		iname=Apollo Munich Health Insurance Company Limited
+		logo=
+		plan=1.2 Apollo Munich Easy Health Premium Plan
+		coverage=All incidences apart from specified surgeries, Permanent exclusion & Pre-existing diseases (if any). The Sum Insured will be 4 Lacs to 50 Lacs.
+		exclusions=Expenses arising from HIV or AIDS and related diseases. Congenital diseases, mental disorder or insanity, cosmetic surgery and weight control treatments. Abuse of intoxicant or hallucinogenic substances like intoxicating drugs and alcohol. Hospitalization due to war or an act of war or due to a nuclear, chemical or biological weapon and radiation of any kind. Pregnancy, dental treatment, external aids and appliances unless covered under the specific Easy Health Insurance Plan. Experimental, investigative and unproven treatment devices and pharmacological regimens. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility= Children-91 days/Adults-18 years to 65 years.
+		additionaldiscounts=Family Discount of 5% if 2 members are covered and 10% if 3 or more family members. Discount for multi-year polices-7.5% discount for opting 2yr policy tenure
+
+	03
+		iname=Apollo Munich Health Insurance Company Limited
+		logo=
+		plan=1.3 Apollo Munich Dengue Care Plan
+		coverage=Under this plan, the pre and post hospitalisation costs are covered. The Sum Insured will be 50 Thousand & 1 lacs. 
+		exclusions=Any Treatment other than for Dengue fever. Vitamins and tonics unless certified to be required by the attending Medical Practitioner as a direct consequence of an otherwise covered claims. Specified healthcare providers. Treatment rendered by a Medical Practitioner which is outside his discipline or the discipline for which he is licensed. Any treatment or part of a treatment that is not of a reasonable charge, not Medically Necessary; drugs or treatments which are not supported by a prescription. Charges related to a Hospital stay not expressly mentioned as being covered, including but not limited to charges for admission, discharge, administration, registration, documentation and filing. Any non medical expenses mentioned in Annexure I of Policy wordings. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations
+		eligibility= Children-91 days/Adults-18 years to 65 years
+		additionaldiscounts=Not Applicable
+
+	04
+		iname=Apollo Munich Health Insurance Company Limited
+		logo=
+		plan=1.4 Apollo Munich Optima Senior Plan 
+		coverage=Pre Existing Disease 3 Years and Specified Surgeries 2 Years. The Sum Insured will be 2 Lacs, 3 Lacs, 5 Lacs.
+		exclusions=Any Treatment other than for Dengue fever. Vitamins and tonics unless certified to be required by the attending Medical Practitioner as a direct consequence of an otherwise covered claims. Specified healthcare providers. Treatment rendered by a Medical Practitioner which is outside his discipline or the discipline for which he is licensed. Any treatment or part of a treatment that is not of a reasonable charge, not Medically Necessary; drugs or treatments which are not supported by a prescription. Charges related to a Hospital stay not expressly mentioned as being covered, including but not limited to charges for admission, discharge, administration, registration, documentation and filing. Any non medical expenses mentioned in Annexure I of Policy wordings. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations
+		eligibility= 61 years to No Limit
+		additionaldiscounts=5% discount will be offered if both you and your spouse choose to buy this plan. Discount for multi-year polices-7.5% discount for opting 2yr policy tenure. Get a 5% non cumulative discount on the renewal premium payable under the policy after every claim free year.
+
+	05
+		iname=Apollo Munich Health Insurance Company Limited
+		logo=
+		plan=1.5 Apollo Munich Optima Plus Top-up
+		coverage=Life Time Renewal. Pre and Post hospitalisation 60 days and 90 days. No Co-payment.
+		exclusions=War or any act of war, invasion. Any Insured Person committing or attempting to commit a breach of law with criminal intent, or intentional self injury or attempted suicide while sane or insane. Any Insured Person’s participation or involvement in naval, military or air force operation, racing, diving, aviation, scuba diving, parachuting, hanggliding, rock or mountain climbing. Treatment of Obesity and any weight control program. Venereal disease, sexually transmitted disease or Illness; Psychiatric, mental disorders, Pregnancy (including voluntary termination), miscarriage (except as a result of an Accident or Illness). Dental treatment and surgery of any kind, unless requiring Hospitalisation. Experimental, investigational or unproven treatment, devices and pharmacological regimens.
+		eligibility=Children-91 days to 5 years upto 65 years. 
+		additionaldiscounts=7.5 % Discount on premium if insured person is opting for a 2 yrs policy. Family discount of 10 % if 2 or more family members are covered under the same policy.
+
+	06
+		iname=Apollo Munich Health Insurance Company Limited
+		logo=
+		plan=1.6 Apollo Munich Optima Plus Super Top-up
+		coverage=No Co-payment. Waiver of deductible on 6th policy year without break. Pre and Post hospitalisation 60 days and 90 days.
+		exclusions=War or any act of war, invasion. Any Insured Person committing or attempting to commit a breach of law with criminal intent, or intentional self injury or attempted suicide while sane or insane. Any Insured Person’s participation or involvement in naval, military or air force operation, racing, diving, aviation, scuba diving, parachuting, hanggliding, rock or mountain climbing. Treatment of Obesity and any weight control program. Venereal disease, sexually transmitted disease or Illness; Psychiatric, mental disorders, Pregnancy (including voluntary termination), miscarriage (except as a result of an Accident or Illness). Dental treatment and surgery of any kind, unless requiring Hospitalisation. Experimental, investigational or unproven treatment, devices and pharmacological regimens.
+		eligibility=Children-91 days to 5 years upto 65 years. 
+		additionaldiscounts=7.5 % Discount on premium if insured person is opting for a 2 yrs policy. 7.5 % pay 2 years premium in advance as single premium. Family discount of 10 % if 2 or more family members are covered under the same policy.
+
+
+	07
+		iname=Star Health and Allied insurance Co Ltd
+		logo=
+		plan=2.1 Family Health Optima Insurance Plan
+		coverage=Any Expenses related to Pre-Hospitalisation will be covered upto 60 days & Post-Hospitalisation expenses will be covered 
+		upto 90 days. The Sum Insured will be Rs.2 Lacs  to 15 Lacs.
+		exclusions=Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Medical expenses incurred for treatment of AIDS. Treatment arising from or traceable to pregnancy and childbirth, miscarriage, abortion and its consequences. Congenital disease. Tests and treatment relating to infertility and in vitro fertilization. War, riot, strike, nuclear weapons induced hospitalization. Expenses attributable to self-inflicted injury (resulting from suicide, attempted suicide). Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Cost of spectacles/contact lenes,dental treatment. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations
+		eligibility= Children-16 days to 25 years/Adults-18 years upto 65 years.
+		additionaldiscounts=Not Available
+
+	08
+		iname=Star Health and Allied insurance Co Ltd
+		logo=
+		plan=2.2 Senior Citizens Red Carpet Health Insurance Policy
+		coverage= Any Pre-Existing diseases will be covered after a waiting period of 1 year. Medical Consultations is covered as an Out 
+		Patient in Network Hospital. Premium remains constant for all age Brackets.
+		exclusions=Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Medical expenses incurred for treatment of AIDS. Treatment arising from or traceable to pregnancy and childbirth, miscarriage, abortion and its consequences. Congenital disease. Tests and treatment relating to infertility and in vitro fertilization. War, riot, strike, nuclear weapons induced hospitalization. Expenses attributable to self-inflicted injury (resulting from suicide, attempted suicide). Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Cost of spectacles/contact lenes,dental treatment. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations
+		eligibility= Any person between 60 and 75 years of age at the time of entry can take this insurance policy.
+		additionaldiscounts=Not Available
+
+	09
+		iname=Star Health and Allied insurance Co Ltd
+		logo=
+		plan=2.3 Star Comprehensive Insurance Policy 
+		coverage=OPD benefits (for Dental & Ophthalmic Treatment) - Min Rs. 1200/- and Max. Rs. 3300/- based on the sum insured.Air ambulance assistance offered for sum insured 5 Lacs & above. No Claim bonus up to 100% of SI
+		exclusions=Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Medical expenses incurred for treatment of AIDS. Treatment arising from or traceable to pregnancy and childbirth, miscarriage, abortion and its consequences. Congenital disease. Tests and treatment relating to infertility and in vitro fertilization. War, riot, strike, nuclear weapons induced hospitalization. Expenses attributable to self-inflicted injury (resulting from suicide, attempted suicide). Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Cost of spectacles/contact lenes,dental treatment. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations
+		eligibility= Children-3 Months to 25 years/Adults-18 years upto 65 years
+		additionaldiscounts=Not Available
+
+	10
+		iname=Star Health and Allied insurance Co Ltd
+		logo=
+		plan=2.4 Medi-Classic Insurance Policy (Individual)
+		coverage=Sum Insured will be automatically restored to 200%, in the event if the entire sum insured is exhausted and the policy has not yet expired. No Medical Test required up to the Age of 50 Years. Non-Allopathic Treatment like - Ayurveda and Homeopathy are covered under the policy. HIV Persons Coverage - This policy can be taken by HIV positive persons provided the CD 4 count at the time of entry is above 350 (proof to be produced). However, hospitalization for any opportunistic infections is not covered. Sum Insured-Individuals: Rs.1.5 lacs to Rs.15 lacs; Family Package Plan: Rs.2 Lacs or 3 Lacs.
+		exclusions=Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Medical expenses incurred for treatment of AIDS. Treatment arising from or traceable to pregnancy and childbirth, miscarriage, abortion and its consequences. Congenital disease. Tests and treatment relating to infertility and in vitro fertilization. War, riot, strike, nuclear weapons induced hospitalization. Expenses attributable to self-inflicted injury (resulting from suicide, attempted suicide). Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Cost of spectacles/contact lenes,dental treatment. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations
+		eligibility= 5 years to 65 years.
+		additionaldiscounts=Discount for multi-year polices-5% discount for opting 2yr policy tenure.
+
+	11
+		iname=Star Health and Allied insurance Co Ltd
+		logo=
+		plan=2.5 Star Health Gain Insurance Policy 
+		coverage=Health insurance policy that covers both Outpatient expenses & inpatient expenses. Option to choose premium to be paid 
+		and Sum Insured required. Premium options: Rs.15000/-; Rs.20,000/-; Rs.25,000/-; and Rs.30,000/-( applicable GST extra). Sum Insured options(for inpatient hospitalization): Rs.1 lakh, Rs.2 lakhs, Rs.3 lakhs, Rs.4 lakhs and Rs.5 lakhs
+		exclusions=Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Medical expenses incurred for treatment of AIDS. Treatment arising from or traceable to pregnancy and childbirth, miscarriage, abortion and its consequences. Congenital disease. Tests and treatment relating to infertility and in vitro fertilization. War, riot, strike, nuclear weapons induced hospitalization. Expenses attributable to self-inflicted injury (resulting from suicide, attempted suicide). Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Cost of spectacles/contact lenes,dental treatment. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations
+		eligibility= Age at entry 91 days to 65 years
+		additionaldiscounts=Not Available
+
+	13
+		iname=Bajaj Allianz General Insurance Co Ltd
+		logo=
+		plan=3.1 Health Care Supreme
+		coverage= Complete package policy with wide range of coverage ,to stop unexpected health costs getting in the way of your life. 
+		Option of choosing add on covers like Personal Accident, Critical Illness to top up your coverage. Sum Insured options ranging from Rs.5 lac to Rs.50 lac on individual and floater Sum Insured basis.
+		exclusions=Circumcision unless required for the treatment of illness or accidental bodily injury, cosmetic or aesthetic treatments of any description, treatment or surgery for change of life/gender. Any form of plastic surgery unless necessary for the treatment of cancer, burns or accidental bodily injury. Intentional self-injury. Ailments requiring treatment due to use or abuse of any substance, drug or alcohol and treatment for de-addiction. Medical expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations. Fertility, sub-fertility, impotence, assisted conception operation or sterilization procedure. Weight management services and treatment related to weight reduction programs
+		eligibility= Entry Age for Children: 3 months to 25 years
+					 Entry Age for Proposer/Spouse/parents: 18 years to lifetime
+		additionaldiscounts=Family Discount: 5% discount if 2 or more family members are covered under a single individual policy. Add on Cover Discount: 5% sectional discount on total premium will be applicable under the policy, if all the add-on covers are opted along with the basic cover. Claim Free Renewal Discount: If the policy is Claim Free then 5% Discount on the premium will be applicable at the time of Renewal.
+
+	14
+		iname=Bajaj Allianz General Insurance Co Ltd
+		logo=
+		plan=3.2 Hospital Cash
+		coverage=Hospital Cash offers complete health protection for you, your spouse as well as children. It is recommended that the Hospital Cash Policy be taken as an add on policy along with our Health Guard / Critical illness policies so as to be assured of peace of mind.
+		exclusions=Hospitalization with in 30 days from the commencement of the policy, pre-existing diseases, dental treatment or surgery, treatment related to pregnancy, childbirth, natural perils like avalanche, earthquake, volcanic eruptions etc., accidents resulting from drunken driving are some exclusions.
+		eligibility= 18 years to 60 years
+		additionaldiscounts=Not Available. 
+
+	15
+		iname=Bajaj Allianz General Insurance Co Ltd
+		logo=
+		plan=3.3 Silver Health
+		coverage= A health insurance policy designed exclusively for senior citizens. The policy covers hospitalisation expenses and an 
+		amount equivalent to 3% of admissible pre and post hospitalisation expenses. Covers ambulance charges in an emergency, subject to a limit of Rs.1000. The Sum Insured will be 50000 to 5 lakh.
+		exclusions=War, invasion, acts of foreign enemies, hostilities. Plastic surgery unless necessary for the treatment of cancer, burns or accidental Bodily Injury/Dental treatment or surgery. Cost of spectacles, contact lenses, hearing aids, crutches, artificial limbs, dentures, artificial teeth and all other external appliances. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations. Treatment arising from or traceable to pregnancy and childbirth. Treatment for any mental illness
+		eligibility= 46 years to 70 years
+		additionaldiscounts=Family Discount: 5% discount if 2 or more family members are covered under a single policy.
+
+	16
+		iname=Bajaj Allianz General Insurance Co Ltd
+		logo=
+		plan=3.4 Star Package
+		coverage= It is a unique product wich provides coverage under 8 sections:Health Guard, Hospital Cash, Critical Illness, Personal 
+		Accident, Education Grant, Household Contents, Travelling Baggage, Public Liability.
+		exclusions=Pre-existing diseases and related complications. Hospitalization within 30 days from the commencement of the policy. Treatments arising from or traceable to pregnancy and childbirth including Caesarean section. Surgery and dental treatments are not covered, except in case of accident and requiring hospitalization. Natural perils like avalanche, earthquake, volcanic eruptions or any kind of natural hazard. Accidents due to drunk driving. A waiting period of 4 years will be applicable for pre-existing diseases.
+		eligibility= Entry age for all coverages is restricted from 18 years to 65 years for self-proposers. Children aged between 3 months to 5 years can be covered along with both the parents. Children aged between 6 years to 25 years can be covered if one of the parents is covered.
+		additionaldiscounts=Not Available
+
+	17
+		iname=Bajaj Allianz General Insurance Co Ltd
+		logo=
+		plan=3.5 Health Ensure
+		coverage= Expenses include:In-patient Hospitalisation Treatment, Pre-Hospitalisation, Post-Hospitalisation, Road Ambulance, Day 
+		Care Procedures, Organ Donor Expenses, Preventive Health Check Up, Ayurvedic / Homeopathic Hospitalisation Expenses
+		exclusions=Not specified.
+		eligibility= Proposer/ Spouse/ Dependent Parents/ Sister/ Brother/Parent In law/Grand Parents - 18 years to lifetime.
+		additionaldiscounts=4% discount is applicable if policy is opted for 2 years. 8% discount is applicable if policy is opted for 3 years.
+
+	18
+		iname=Bajaj Allianz General Insurance Co Ltd
+		logo=
+		plan=3.6 Tax Gain 
+		coverage= OPD & Hospitalisation expenses covered under a single policy on floater basis. Access to over 6000+ hospitals all over 
+		India for cashless facility. Covers ambulance charges in case of an emergency up to Rs 1000/-
+		exclusions=Not specified.
+		eligibility= 56 years -75 years for Senior citizens plan Tax Gain 19999 Renewable up to 75 years. 18 years – 55 years for Tax Gain 4999, Tax Gain 9999 & Tax Gain 14999 Renewable up to 55 years. No medical test required for those under 45 years of age.
+		additionaldiscounts=10% co-payment of the admissible claim amount applicable if treatment is taken in non-network hospital, waiver of co-payment is available on payment of additional premium.
+
+	19
+		iname=Bajaj Allianz General Insurance Co Ltd
+		logo=
+		plan=3.7 Critical Illness for Women
+		coverage= This is a unique plan dsigned for women keeping in mind the protection against the risk of 8 critical illness such as 
+		Breast Cancer, Fallopian Tube Cancer, Uterine/Cervical Cancer, Ovarian Cancer, Vaginal Cancer, Permanent Paralysis of Limbs, Multi trauma, Burns. 
+		exclusions=Tumours that are histologically (the study of the structure of cells and tissues) described as pre-malignant (A precancerous condition) and Ductal /Lobular carcinoma in situ (location) of the breast. Exclusions for Fallopian Tube Cancer:Carcinoma in situ, Dysplasia, Inflammatory masses, Hydatidiform mole, Trophoblastic tumours
+		eligibility= 21 years to 65 years.
+		additionaldiscounts=Not Available.
+
+	20
+		iname=Bharti AXA General Insurance Co Ltd
+		logo=
+		plan=4.1 Smart Super Health Insurance Policy
+		coverage= Wide Coverage from Rs. 5 Lakh to Rs. 1 Cr. No capping on room rent. Pre and Post-Hospitalization of 60 days and 90 days. 
+		Restoration of Sum Insured up to 100%. Annual Health Check-Up. Organ Donor expenses covered up to Sum Insured.
+		exclusions=Initial waiting period: 30 days for all illnesses. 24 months for the specific diseases or illness or procedures/surgeries. Pre-existing diseases: Covered after 48 Months. Maternity expenses: Covered but has waiting period until 9 months. Critical Illness 60 days waiting period and 30 days survival period.
+		eligibility= 91 days to no maximum limits.
+		additionaldiscounts=Not Available.
+
+	21
+		iname=Bharti AXA General Insurance Co Ltd
+		logo=
+		plan=4.2 Smart Health Insurance Policy 
+		coverage=Coverage up Rs. 5 Lakh. Renewal Discount of 5% up to 25% on no claims made. Inbuilt Critical Illness Cover. Dread disease 
+		Recuperation Benefit in case of critical illness. 
+		exclusions=Pre-existing diseases: Covered after 48 Months. 24 months for the specific diseases or illness. Any benefit under Critical Illness Section. Hospitalization expenses incurred for treatment undertaken for disease or illness. Birth control procedures, hormone replacement therapy .
+		eligibility= 91 days to no maximum limits.
+		additionaldiscounts=Not Available.
+
+	22
+		iname=Bharti AXA General Insurance Co Ltd
+		logo=
+		plan=4.3 Smart Health Critical Illness Insurance
+		coverage=Expenses include:Hospitalization, Pre-hospitilization, Post-hospitalization, Organ donor, Hospital cash allowance, Home 
+		nursing, Ambulance charges expenses. The Sum Insured will be 2 to 60 lakhs. 
+		exclusions=The expenses that incur as a result of hospitalization as a result of diseases or injuries contracted within the first 30 days of the inception of the policy. Laser or cataract surgery. Hernia, Hydrocele, fistula in anus, sinusitis, haemorrhoids/piles are not covered. Procedures that are related to birth, pregnancy and fertility are not covered. Such as birth control, hormone replacement therapy, caesarean section and operations related to conception or fertility.AIDs and related diseases are not covered. Routine examination of eyes and ears are not covered. The cost of spectacles are not covered. All types of skin conditions are not covered, such as internal tumours, cysts, nodules, polyps including breast lumps, unless they are diagnosed as malignant. Suicide, self-inflicted illness or injury, mental disorders, anxiety, stress or depression and injuries/illnesses that are a result of the use of alcohol or drugs are not covered.
+		eligibility= 91 days to 55 years.
+		additionaldiscounts=Not Available
+
+	23
+		iname=Bharti AXA General Insurance Co Ltd
+		logo=
+		plan=4.4 Smart Individual Personal Accident Insurance
+		coverage=Expenses include:Hospitalization, Pre-hospitilization, Post-hospitalization, Dread disease recuperation, Organ donor, 
+		Hospital cash allowance, Home nursing, Ambulance charges expenses. The Sum Insured will be 2 to 5 lakhs.
+		exclusions=The expenses that incur as a result of hospitalization as a result of diseases or injuries contracted within the first 30 days of the inception of the policy. Laser or cataract surgery. Hernia, Hydrocele, fistula in anus, sinusitis, haemorrhoids/piles are not covered. Procedures that are related to birth, pregnancy and fertility are not covered. Such as birth control, hormone replacement therapy, caesarean section and operations related to conception or fertility.AIDs and related diseases are not covered. Routine examination of eyes and ears are not covered. The cost of spectacles are not covered. All types of skin conditions are not covered, such as internal tumours, cysts, nodules, polyps including breast lumps, unless they are diagnosed as malignant. Suicide, self-inflicted illness or injury, mental disorders, anxiety, stress or depression and injuries/illnesses that are a result of the use of alcohol or drugs are not covered.
+		eligibility= 18 to 75 years
+		additionaldiscounts=Not Available
+
+	24
+		iname=Cholamandalam MS General Insurance Co Ltd
+		logo=
+		plan=5.1 Chola Healthline
+		coverage= Provides coverage for medical expenses for families on a floating sum insured basis. This which covers inpatient 
+		treatment for a minimum period of 24hrs, along with other benefits like day care treatments, Ayurvedic treatment, etc. The Sum Insured will be Value Healthline Plan-2 Lacs; Freedom Healthline Plan-3 Lacs,5 Lacs, 7.5 Lacs; Enrich Healthline Plan-3 Lacs,5 Lacs, 7.5 Lacs,10 Lacs
+		exclusions=Treatment with alternative medicines like acupuncture, acupressure, osteopath, naturopathy, chiropractic, reflexology and aromatherapy. Treatment arising from or traceable to pregnancy (whether uterine or extra uterine) and childbirth including caesarean section, and/or any treatment related to prenatal and postnatal care. All expenses related to AIDS and related diseases. Use/Abuse of intoxicating drugs or alcohol,any hazardous activities. War or any act of war, invasion, intentional self-injury or attempted suicide. Treatment of obesity,,Cosmetic treatments,mental disorders,external congenital diseases. Personal comfort and convenience items or services.
+		eligibility= Children-91 days to 26 years/Adults 18 years upto 65 years.
+		additionaldiscounts=Discount for multi-year polices - 6% discount for opting 2yr policy tenure and for 3yrs tenure 12%
+
+	25
+		iname=Cholamandalam MS General Insurance Co Ltd
+		logo=
+		plan=5.2 Chola Swasth Parivar
+		coverage= Apart from covering hospitalization charges, the policy also offers a personal accident cover. Covers pre-hospitalization 
+		expenses for up to 30 days and post-hospitalization expenses for up to 60 days. Covers 141 day care procedures which require less than 24 hours of hospitalization. The Sum Insured	Pearl Plan-(Plan1-Rs 3 Lacs, Plan2- Rs 4 Lacs ,Plan 3-Rs 5 Lacs); Royale Plan-(Plan1-Rs 3 Lacs, Plan2- Rs 4 Lacs ,Plan 3-Rs 5 Lacs)
+		exclusions=Treatment with alternative medicines like acupuncture, acupressure, osteopath, naturopathy, chiropractic, reflexology and aromatherapy. Treatment arising from or traceable to pregnancy (whether uterine or extra uterine) and childbirth including caesarean section, and/or any treatment related to prenatal and postnatal care. All expenses related to AIDS and related diseases. Use/Abuse of intoxicating drugs or alcohol,any hazardous activities. War or any act of war, invasion, intentional self-injury or attempted suicide. Treatment of obesity,,Cosmetic treatments,mental disorders,external congenital diseases. Personal comfort and convenience items or services.
+		eligibility= Children-90 days to 65 years
+		additionaldiscounts=Not Available
+
+	26
+		iname=Cholamandalam MS General Insurance Co Ltd
+		logo=
+		plan=5.3 Chola Tax Plus Healthline
+		coverage=No Medical Test up to 55 years. No Claim Bonus. Out-patient medical expenses covered up to plan limits. Pre Hospitalisation-60 days/Post Hospitalisation-90 days. Some Organ Specific are Covered after 1 year like Cataract, benign prostratic hypertropy, etc. The Sum Insured will be 1/2/3/4/5 Lacs.
+		exclusions=Treatment with alternative medicines like acupuncture, acupressure, osteopath, naturopathy, chiropractic, reflexology and aromatherapy. Treatment arising from or traceable to pregnancy (whether uterine or extra uterine) and childbirth including caesarean section, and/or any treatment related to prenatal and postnatal care. All expenses related to AIDS and related diseases. Use/Abuse of intoxicating drugs or alcohol,any hazardous activities. War or any act of war, invasion, intentional self-injury or attempted suicide. Treatment of obesity,,Cosmetic treatments,mental disorders,external congenital diseases. Personal comfort and convenience items or services.
+		eligibility= Children-91 days to Female-35 years,Male-25 years/Adult-18 years upto 65 years
+		additionaldiscounts=Not Available
+
+	27
+		iname=Cholamandalam MS General Insurance Co Ltd
+		logo=
+		plan=5.4 Chola MS Family Healthline Insurance
+		coverage=Covers pre-hospitalization expenses for up to 60 days and post-hospitalization expenses for up to 90 days. Maternity 
+		benefits covered after a waiting period of 5yrs (Under - Superior & Advanced Plan). OPD Dental Treatment - (Waiting Period 3 years) – 30% Co-payment covered under Advanced Plan. Some Organ Specific are Covered after 1 year like Cataract, benign prostratic hypertropy, etc. The Sum Insured will be Standard Plan-2/3/4/5 Lacs; Superior Plan-4/6/8/10 Lacs; Advanced Plan-6/8/10/12/15 Lacs
+		exclusions=Treatment with alternative medicines like acupuncture, acupressure, osteopath, naturopathy, chiropractic, reflexology and aromatherapy. Treatment arising from or traceable to pregnancy (whether uterine or extra uterine) and childbirth including caesarean section, and/or any treatment related to prenatal and postnatal care. All expenses related to AIDS and related diseases. Use/Abuse of intoxicating drugs or alcohol,any hazardous activities. War or any act of war, invasion, intentional self-injury or attempted suicide. Treatment of obesity,,Cosmetic treatments,mental disorders,external congenital diseases. Personal comfort and convenience items or services.
+		eligibility= 91 days to 65 years.
+		additionaldiscounts=Not Available
+
+	28
+		iname=Cholamandalam MS General Insurance Co Ltd
+		logo=
+		plan=5.5 Individual Healthline Insurance 
+		coverage= This plan covers maternity related expenses, external aids such as specs, contact lens, and hearing Aids. The Sum 
+		Insured will be for Standard Plan-1/2/3/4/5 Lacs, Superior Plan-3.5/4.5/5 Lacs, Advanced Plan-4.5/5.5/7.5/10 Lacs.
+		exclusions=Treatment with alternative medicines like acupuncture, acupressure, osteopath, naturopathy, chiropractic, reflexology and aromatherapy. Treatment arising from or traceable to pregnancy (whether uterine or extra uterine) and childbirth including caesarean section, and/or any treatment related to prenatal and postnatal care. All expenses related to AIDS and related diseases. Use/Abuse of intoxicating drugs or alcohol,any hazardous activities. War or any act of war, invasion, intentional self-injury or attempted suicide. Treatment of obesity,,Cosmetic treatments,mental disorders,external congenital diseases. Personal comfort and convenience items or services.
+		eligibility= 91 days to 65 years.
+		additionaldiscounts=Not Available
+
+	29
+		iname=CIGNA TTK
+		logo=
+		plan=6.1 CignaTTK - Pro Health Protect Plan
+		coverage=Cumulative Bonus - There will be no reduction in the incremental Sum Assured, accumulated by the way of NCB, in the event of a claim. This Plan offers a Healthy Rewards Program that encourages to stay healthy & an expert opinion on Critical Illness. Worldwide Emergency Cover & Health maintenance benefit cover. Pre & Post hospitalisation expenses are covered up to 60 & 90 days. The Sum Insured will be 2.5Lacs, 3.5Lacs, 4.5Lacs, 5.5Lacs, 7.5Lacs, 10 Lacs
+		exclusions=Genetic Disorder. Dental treatment, dentures or surgery. Circumcision. Birth control procedures, contraceptive supplies and services. Routine medical check-up and diagnostic tests. AIDS and all diseases/illnesses caused by or related to HIV. All sexually transmitted diseases. Mental illnesses. Ailments arising out of alcohol and drug abuse. Cosmetic surgery except reconstructive surgery for burns and accidents. Any form of non-allopathic treatment. Any robotic or remote surgery. Any amount which falls under the deductible or co-pay. Non-medical expenses listed as per IRDA.
+		eligibility= 91 days to no limit.
+		additionaldiscounts=Family Discount - The insured will get 10% Family Discount for covering more than 2 family members under the same policy under the individual policy option. Long Term Policy Discount - The insured will get 7.5% discount for selecting a 2 years policy. Co-pay Discount - A discount of 7.5% for opting 10% Co-pay and a discount of 15% for opting a 20% Co-pay on the Policy.
+	30
+		iname=CIGNA TTK
+		logo=
+		plan=6.2 CignaTTK - ProHealth Plus Plan
+		coverage=Coverages like OPD & 100% Restoration of the Sum Insured offered. Additional Non-Reducing Cumulative Bonus. Total Protection through Protective Healing & Pro-Active Living. The Sum Insured wil be 4.5 Lacs, 5.5Lacs, 7.5Lacs, 10Lacs
+		exclusions=Genetic Disorder. Dental treatment, dentures or surgery. Circumcision. Birth control procedures, contraceptive supplies and services. Routine medical check-up and diagnostic tests. AIDS and all diseases/illnesses caused by or related to HIV. All sexually transmitted diseases. Mental illnesses. Ailments arising out of alcohol and drug abuse. Cosmetic surgery except reconstructive surgery for burns and accidents. Any form of non-allopathic treatment. Any robotic or remote surgery. Any amount which falls under the deductible or co-pay. Non-medical expenses listed as per IRDA.
+		eligibility= 91 days to no limit.
+		additionaldiscounts=Family Discount - The insured will get 10% Family Discount for covering more than 2 family members under the same policy under the individual policy option. Long Term Policy Discount - The insured will get 7.5% discount for selecting a 2 years policy. Co-pay Discount - A discount of 7.5% for opting 10% Co-pay and a discount of 15% for opting a 20% Co-pay on the Policy.
+
+	31
+		iname=CIGNA TTK
+		logo=
+		plan=6.3 CignaTTK - ProHealth Preferred Plan
+		coverage=This plan offers a Healthy Rewards Program (i.e. 1% of the premium paid each year) that encourages you to stay healthy 
+		along with an Annual Health Check-ups & An Expert Opinion on Critical Illness. Worldwide Emergency Medical Assistance Cover & Health Maintenance Benefit Cover  (i.e. Reimbursement of Rs. 15,000/- each year to cover out-patient expenses). The Sum Insured will be 15Lacs, 30Lacs, 50Lacs
+		exclusions=Genetic Disorder. Dental treatment, dentures or surgery. Circumcision. Birth control procedures, contraceptive supplies and services. Routine medical check-up and diagnostic tests. AIDS and all diseases/illnesses caused by or related to HIV. All sexually transmitted diseases. Mental illnesses. Ailments arising out of alcohol and drug abuse. Cosmetic surgery except reconstructive surgery for burns and accidents. Any form of non-allopathic treatment. Any robotic or remote surgery. Any amount which falls under the deductible or co-pay. Non-medical expenses listed as per IRDA.
+		eligibility= 91 days to no limit. 
+		additionaldiscounts=Family Discount - The insured will get 10% Family Discount for covering more than 2 family members under the same policy under the individual policy option. Long Term Policy Discount - The insured will get 7.5% discount for selecting a 2 years policy. Co-pay Discount - A discount of 7.5% for opting 10% Co-pay and a discount of 15% for opting a 20% Co-pay on the Policy.
+
+	32
+		iname=Future Generali India Insurance Company Ltd
+		logo=
+		plan=7.1 Future Generali-Individual Plan 
+		coverage=This plan offers Pre-Hospitalisation expenses upto 60 days & Post-Hospitalisation expenses upto 90 days. This plan offers 
+		some Organ Specific Illness like gallstones, renwal stones, etc. covered after a waiting period of 1 year. The Sum Insured will be 1.5 Lacs to 10 lacs.
+		exclusions=War, Invasion, Act of Foreign Enemy,Vaccination/ inoculation, cosmetic treatments. Non-allopathic treatment,treatment of obesity,intentional self-Injury,Maternity expenses. Congenital Internal and/ or external Illness,Genetic disorders. All expenses related to AIDS and related diseases. Use of intoxicating drugs or alcohol,Treatment for any mental Illness. Personal comfort and convenience items or services.
+		eligibility=Children - 91 days to 25 years/Adults - 18 years upto 70 years.
+		additionaldiscounts=Family discount of 10% is available in case more than one person
+
+	33
+		iname=Future Generali India Insurance Company Ltd
+		logo=
+		plan=7.2 Future Generali - Family Floater Plan
+		coverage=This plan covers without any limitation on the Room Rent expenses. This plan offers Pre-Hospitalisation expenses upto 60 
+		days & Post-Hospitalisation expenses upto 90 days. The Sum Insured will be 1.5 Lacs to 10 lacs
+		exclusions=War, Invasion, Act of Foreign Enemy,Vaccination/ inoculation, cosmetic treatments. Non-allopathic treatment,treatment of obesity,intentional self-Injury,Maternity expenses. Congenital Internal and/ or external Illness,Genetic disorders. All expenses related to AIDS and related diseases. Use of intoxicating drugs or alcohol,Treatment for any mental Illness. Personal comfort and convenience items or services.
+		eligibility=Children-91 days to 25 years/Adults-18 years
+		additionaldiscounts=Family discount of 10% is available in case more than one person
+
+
+	34
+		iname=Future Generali India Insurance Company Ltd
+		logo=
+		plan=7.3 Future Generali - Health Total Vital Insurance Plan 
+		coverage=This plan offers Restoration of the Sum Insured in case the base sum insured is exhausted. This plan offers a No Claim 
+		Bonus up to 100% of the Sum Insured in case there is no claim during the preceding year. Pre Existing Disease(Covered after 2 years 50% of the admissible claim amount)(Covered after 4 years 100% of the admissible claim amount) The Sum Insured will be 3 Lacs,5 Lacs,10 Lacs.
+		exclusions=External Congenital Anomaly and related Illness/ defect. Expenses incurred towards treatment of Illness or Injury arising out of alcohol use/misuse or abuse of alcohol, narcotic substance or drugs (whether prescribed or not). Non-prescribed drugs and medical supplies, hormone replacement therapy, sex change or treatment which results from or is in any way related to sex change. Injury or Illness directly or indirectly caused by or arising from or attributable to war, invasion, act of foreign enemy, war like operations (whether war be declared or not). Personal comfort and convenience items or services. Treatment for any mental Illness,Non-allopathic treatment,treatment of obesity,intentional self-Injury.
+		eligibility= Minimum Age of Entry : Day 1; Maximum age of Entry	Children - 91 days to 25 years/Adults - 18 years
+		additionaldiscounts=Family discount	Family discount of 10% is available in case more than one person is covered in the same policy in case of Individual Sum Insured option. One time renewal discount	One time renewal discount-subsequent to death of proposer - 10% Discount.
+
+	35
+		iname=Future Generali India Insurance Company Ltd
+		logo=
+		plan=7.5 Future Generali - Health Total Superior Insurance Plan
+		coverage=This plan offers Restoration of the Sum Insured in case the base sum insured is exhausted. This plan offers a No Claim 
+		Bonus up to 100% of the Sum Insured in case there is no claim during the preceding year. Maternity Benefits are Covered after 2 years/OPD Covered. The Sum Insured will be 15 Lacs,20 Lacs, 25 Lacs.
+		exclusions=External Congenital Anomaly and related Illness/ defect. Expenses incurred towards treatment of Illness or Injury arising out of alcohol use/misuse or abuse of alcohol, narcotic substance or drugs (whether prescribed or not). Non-prescribed drugs and medical supplies, hormone replacement therapy, sex change or treatment which results from or is in any way related to sex change. Injury or Illness directly or indirectly caused by or arising from or attributable to war, invasion, act of foreign enemy, war like operations (whether war be declared or not). Personal comfort and convenience items or services. Treatment for any mental Illness,Non-allopathic treatment,treatment of obesity,intentional self-Injury.
+		eligibility=Minimum Age of Entry : Day 1; Maximum age of Entry : Children - 91 days to 25 years/Adults - 18 years
+		additionaldiscounts=Family discount	Family discount of 10% is available in case more than one person is covered in the same policy in case of Individual Sum Insured option. One time renewal discount	One time renewal discount-subsequent to death of proposer - 10% Discount.
+
+
+	36
+		iname=Future Generali India Insurance Company Ltd
+		logo=
+		plan=7.6 Future Generali - Health Total Premiere Insurance Plan 
+		coverage=This plan offers Restoration of the Sum Insured in case the base sum insured is exhausted. This plan offers a No Claim 
+		Bonus up to 100% of the Sum Insured in case there is no claim during the preceding year. Pre Hospitalisation-60 days/Post Hospitalisation-180 days. The Sum Insured will be 50 Lacs  and 1 Crore.
+		exclusions=External Congenital Anomaly and related Illness/ defect. Expenses incurred towards treatment of Illness or Injury arising out of alcohol use/misuse or abuse of alcohol, narcotic substance or drugs (whether prescribed or not). Non-prescribed drugs and medical supplies, hormone replacement therapy, sex change or treatment which results from or is in any way related to sex change. Injury or Illness directly or indirectly caused by or arising from or attributable to war, invasion, act of foreign enemy, war like operations (whether war be declared or not). Personal comfort and convenience items or services. Treatment for any mental Illness,Non-allopathic treatment,treatment of obesity,intentional self-Injury.
+		eligibility=Minimum Age of Entry : Day 1; Maximum age of Entry : Children - 91 days to 25 years/Adults - 18 years
+		additionaldiscounts=Family discount	Family discount of 10% is available in case more than one person is covered in the same policy in case of Individual Sum Insured option. One time renewal discount	One time renewal discount-subsequent to death of proposer - 10% Discount.
+
+	37
+		iname=Future Generali India Insurance Company Ltd
+		logo=
+		plan=7.7 Future Generali - Health Surplus Top-up
+		coverage=No Co-payment. No Medical Test up to 55 years. Pre and Post hospitalisation 60 days and 90 days.
+		exclusions=External Congenital Anomaly and related Illness/ defect. Expenses incurred towards treatment of Illness or Injury arising out of alcohol use/misuse or abuse of alcohol, narcotic substance or drugs (whether prescribed or not). Non-prescribed drugs and medical supplies, hormone replacement therapy, sex change or treatment which results from or is in any way related to sex change. Injury or Illness directly or indirectly caused by or arising from or attributable to war, invasion, act of foreign enemy, war like operations (whether war be declared or not). Personal comfort and convenience items or services. Treatment for any mental Illness,Non-allopathic treatment,treatment of obesity,intentional self-Injury.
+		eligibility=Minimum Age of Entry : Children-3 Months to 23 years/Adults-18 years; Maximum age of Entry : 65 years
+		additionaldiscounts=Family discount	Family discount of 10% is available in case more than one person is covered in the same policy in case of Individual Sum Insured option. One time renewal discount	One time renewal discount-subsequent to death of proposer - 10% Discount.
+
+	38
+		iname=HDFC ERGO General Insurance Co Ltd
+		logo=
+		plan=8.1 Hdfc Ergo - Health Suraksha - Gold Plan
+		coverage=Regain benefits up to Sum Insured (Optional by paying extra premium). Pre-hospitalisation-60 days/Post-hospitalisation-90 
+		days. The Sum Insured will be 2 Lacs to 50 Lacs
+		exclusions=In case of war or any sort of armed conflicts. Violation of any law with an intent of crime. Injuries caused due to an act of self-destruction, suicide or suicide attempts. Radioactivity or war, terrorist activities. HIV/AIDS. Claims for illness that may arise due to intoxication of alcohol and drugs. Plastic or cosmetic surgery unless performed as an internal part of the treatment. Vaccinations including inoculation and immunizations taken for preventive measures. Mental disorder or insanity, cosmetic surgery, weight control treatment. Experimental, investigational or unproven treatment, devices and pharmacological regimens. Pregnancy, dental and external aids and appliances unless covered under specific plans. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=Minimum Age of Entry : 91 days; Maximum age of Entry : No Limit 
+		additionaldiscounts=Family Discount of 10 % if 2 members or more family members are covered under the same policy on Individual sum insured basis. Discount for multi-year polices-10% discount for opting 2yr policy tenure. (25% discount on base premium if the Insured opts for 20% Co-pay)(10% discount on base premium if the Insured opts for 10% Co-pay).
+
+	39
+		iname=HDFC ERGO General Insurance Co Ltd
+		logo=
+		plan=8.2 Hdfc Ergo - Health Suraksha - Regain Plan
+		coverage=Out Patients benefits(Optional by paying extra premium except Platinum Plan). Ayurveda, Unani, Sidha and Homeopathy 
+		treatment are Covered. The Sum Insured will be 2 Lacs to 50 Lacs
+		exclusions=In case of war or any sort of armed conflicts. Violation of any law with an intent of crime. Injuries caused due to an act of self-destruction, suicide or suicide attempts. Radioactivity or war, terrorist activities. HIV/AIDS. Claims for illness that may arise due to intoxication of alcohol and drugs. Plastic or cosmetic surgery unless performed as an internal part of the treatment. Vaccinations including inoculation and immunizations taken for preventive measures. Mental disorder or insanity, cosmetic surgery, weight control treatment. Experimental, investigational or unproven treatment, devices and pharmacological regimens. Pregnancy, dental and external aids and appliances unless covered under specific plans. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=Minimum Age of Entry : 91 days; Maximum age of Entry : No Limit
+		additionaldiscounts=Family Discount of 10 % if 2 members or more family members are covered under the same policy on Individual sum insured basis.Discount for multi-year polices-10% discount for opting 2yr policy tenure. (25% discount on base premium if the Insured opts for 20% Co-pay)(10% discount on base premium if the Insured opts for 10% Co-pay).
+
+	40
+		iname=HDFC ERGO General Insurance Co Ltd
+		logo=
+		plan=8.3 HDFC ERGO - Health Suraksha Platinum Plan.
+		coverage=Maternity Benefit Covered (Silver plan Optional). No Claim bonus 10% up to maximum 100%(Optional by paying extra premium). 
+		The Sum Insured will be 2 Lacs to 50 Lacs
+		exclusions=In case of war or any sort of armed conflicts. Violation of any law with an intent of crime. Injuries caused due to an act of self-destruction, suicide or suicide attempts. Radioactivity or war, terrorist activities. HIV/AIDS. Claims for illness that may arise due to intoxication of alcohol and drugs. Plastic or cosmetic surgery unless performed as an internal part of the treatment. Vaccinations including inoculation and immunizations taken for preventive measures. Mental disorder or insanity, cosmetic surgery, weight control treatment. Experimental, investigational or unproven treatment, devices and pharmacological regimens. Pregnancy, dental and external aids and appliances unless covered under specific plans. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=Minimum Age of Entry : 91 days; Maximum age of Entry : No Limit
+		additionaldiscounts=Family Discount of 10 % if 2 members or more family members are covered under the same policy on Individual sum insured basis.Discount for multi-year polices-10% discount for opting 2yr policy tenure. (25% discount on base premium if the Insured opts for 20% Co-pay)(10% discount on base premium if the Insured opts for 10% Co-pay).
+
+	41
+		iname=HDFC ERGO General Insurance Co Ltd
+		logo=
+		plan=8.4 HDFC Ergo - Health Suraksha Silver Plan 
+		coverage=Hdfc Ergo Health Suraksha Insurance Silver Plan is an inpatient hospitalization policy, admission as an inpatient for a 
+		minimum period of 24hrs is required, except for day care treatments. The Sum Insured will be 2 Lacs to 50 Lacs.
+		exclusions=In case of war or any sort of armed conflicts. Violation of any law with an intent of crime. Injuries caused due to an act of self-destruction, suicide or suicide attempts. Radioactivity or war, terrorist activities. HIV/AIDS. Claims for illness that may arise due to intoxication of alcohol and drugs. Plastic or cosmetic surgery unless performed as an internal part of the treatment. Vaccinations including inoculation and immunizations taken for preventive measures. Mental disorder or insanity, cosmetic surgery, weight control treatment. Experimental, investigational or unproven treatment, devices and pharmacological regimens. Pregnancy, dental and external aids and appliances unless covered under specific plans. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=Minimum Age of Entry : 91 days; Maximum age of Entry : No Limit
+		additionaldiscounts=Family Discount of 10 % if 2 members or more family members are covered under the same policy on Individual sum insured basis.Discount for multi-year polices-10% discount for opting 2yr policy tenure. (25% discount on base premium if the Insured opts for 20% Co-pay)(10% discount on base premium if the Insured opts for 10% Co-pay).
+
+
+	42
+		iname=ICICI Lombard General Insurance Co. Ltd
+		logo=
+		plan=9.1 ICICI Lombard Health Care Plus Top-up
+		coverage=This plan offers Life Time Renewal. No Medical Check-Up upto 55 years. No Sub-limits on Room Rent, Hospitalization 
+		Expenses, Diagnostic Test & Doctor Fees. No Co-Payment. 
+		exclusions=Any claims arising out of or attributable to any of the following is not covered. Any psychological disorders, Routine medical, eye and ear examinations, Congenital disease. Suicide or self-inflicted injury, Alcohol or drug abuse, All dental treatment unless caused due to Accident, Birth control procedures and hormone replacement therapy. Durable medical equipments, Personal comfort and convenience items and services. Any charge incurred prior to Hospitalisation or post Hospitalisation. Cosmetic surgery and plastic surgery and Any exually transmitted diseases. War or any act of war, invasion and act of terrorism. Costs of donor screening or treatment including surgery to remove organs from a donor in case of transplant surgery. Domiciliary Hospitalisation.
+		eligibility=Children- 5 years and Adult- 18 years upto 65 years
+		additionaldiscounts=7.5 % Discount on premium if insured person is opting for a 2 yrs policy. Family discount of 10 % if 2 or more family members are covered under the same policy.
+
+	43
+		iname=ICICI Lombard General Insurance Co. Ltd
+		logo=
+		plan=9.2 ICICI Lombard - iHealth Insurance Plan
+		coverage=Annual Free Health Check-ups. No Sub Limits - Room Rent, ICU, Doctor's expenses, etc. Pre-Existing covered after 2 year 
+		for higher coverage. Lump sum coverage for Critical illness(Optional). No Co-Payment. The Sum Insured will be 2 Lacs	3 Lacs, 4Lacs, 5Lacs.
+		exclusions=Non-allopathic treatment. Expenses attributable to self-inflicted Injury (resulting from suicide, attempted suicide. Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Cost of spectacles/contact lenses, dental treatment. Medical expenses incurred for treatment of AIDS. " Treatment arising from or traceable to pregnancy and childbirth, miscarriage, abortion and its consequences Congenital disease". Tests and treatment relating to infertility and invitro fertilization. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=3 months in case of floater and 6 years in case of individual upto sNo Limit
+		additionaldiscounts=Discount for multi-year polices - 10% discount for opting 2yr policy tenure.
+
+	44
+		iname=ICICI Lombard General Insurance Co. Ltd
+		logo=
+		plan=9.3 ICICI Lombard - iHealth Plus Plan
+		coverage=Annual Free Health Check-ups. Maternity Benefits. Pre-Existing covered after 2 year for higher coverage. Outpatient 
+		Treatment Covered. The Sum Insured will be 2 lacs upto 60 lacs according to the treatment.
+		exclusions=Non-allopathic treatment. Expenses attributable to self-inflicted Injury (resulting from suicide, attempted suicide. Expenses arising out of or attributable to alcohol or drug use/misuse/abuse. Cost of spectacles/contact lenses, dental treatment. Medical expenses incurred for treatment of AIDS. " Treatment arising from or traceable to pregnancy and childbirth, miscarriage, abortion and its consequences Congenital disease". Tests and treatment relating to infertility and invitro fertilization. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=3 months in case of floater and 6 years in case of individual upto No Limit
+		additionaldiscounts=Discount for multi-year polices - 10% discount for opting 2yr policy tenure.
+
+	45
+		iname=Iffco Tokio General Insurance Co Ltd
+		logo=
+		plan=10.1 Swasthya Kavach Family Health Insurance - Base Plan
+		coverage=Cumulative Bonus of 5% on every claim free renewal, subject to max of 50. Non-Allopathic Treatment like - Ayurvedic/ 
+		Homeopathic treatments are covered under this policy. Some Organ Specific are Covered after 1 year like Tonsillitis/ Adenoids Gastric etc. The Sum Insured will be 2,3,4,5 Lacs.
+		exclusions=Cost of spectacles, contact lens or hearing aids. Dental treatment, unless requiring hospitalisation. Convalescence, general debility, congenital diseases/defects, sterility. All claims arising from or related to pregnancy, other than ectopic pregnancy. Any domiciliary or out-patient treatment. Cost of external medical equipments. Claims arising out of participation in dangerous sports/activities. Claims arising from or related to HIV/AIDS. War, terrorism and nuclear risks. All non medical expenses, including personal comfort and convenience item services. Treatment of obesity, hormone replacement therapy, sex change. Genetic disorders, stem cell implantation and surgery. Treatment of mental illness,cosmetic surgery/implants or plastic surgery
+		eligibility=Children-91 days to 23 years/Adults-18 years upto 60 years.
+		additionaldiscounts=Not Available
+
+	46
+		iname=Iffco Tokio General Insurance Co Ltd
+		logo=
+		plan=10.2 Swasthya Kavach Family Health Insurance - Wider Plan
+		coverage=Cumulative Bonus of 5% on every claim free renewal, subject to max of 50% (Available on Wider Plan). Non-Allopathic 
+		Treatment like - Ayurvedic/ Homeopathic treatments are covered under this policy. Some Organ Specific are Covered after 1 year like Tonsillitis/ Adenoids Gastric etc. The Sum Insured will be 2,3,4,5 Lacs.
+		exclusions= Cost of spectacles, contact lens or hearing aids. Dental treatment, unless requiring hospitalisation. Convalescence, general debility, congenital diseases/defects, sterility. All claims arising from or related to pregnancy, other than ectopic pregnancy. Any domiciliary or out-patient treatment. Cost of external medical equipments. Claims arising out of participation in dangerous sports/activities. Claims arising from or related to HIV/AIDS. War, terrorism and nuclear risks. All non medical expenses, including personal comfort and convenience item services. Treatment of obesity, hormone replacement therapy, sex change. Genetic disorders, stem cell implantation and surgery. Treatment of mental illness,cosmetic surgery/implants or plastic surgery
+		eligibility=Children-91 days to 23 years/Adults-18 years upto 60 years.
+		additionaldiscounts=Not Available
+
+	47
+		iname=Iffco Tokio General Insurance Co Ltd
+		logo=
+		plan=10.3 Individual Medishield Plan
+		coverage=Any expenses related to Pre-Hospitalisation are covered upto 60 days and Post-Hospitalisation are covered upto 60 days. 
+		All Pre-Existing Disease are covered after a waiting period of 3 years. Non-Allopathic Treatment like - Ayurvedic/ Homeopathic treatments are covered under this policy. There is No-Copayment Clause under this plan. Some Organ Specific are Covered after 1 year like Cataract, Benign Prostatic Hypertrophy etc. The Sum Insured will be 50 Thousands to 5 Lacs.
+		exclusions=Cost of spectacles, contact lens or hearing aids. Dental treatment, unless requiring hospitalisation. Convalescence, general debility, congenital diseases/defects, sterility. All claims arising from or related to pregnancy, other than ectopic pregnancy. Any domiciliary or out-patient treatment. Cost of external medical equipments. Claims arising out of participation in dangerous sports/activities. Claims arising from or related to HIV/AIDS. War, terrorism and nuclear risks. All non medical expenses, including personal comfort and convenience item services. Treatment of obesity, hormone replacement therapy, sex change. Genetic disorders, stem cell implantation and surgery. Treatment of mental illness,cosmetic surgery/implants or plastic surgery
+		eligibility=Children-91 days to 23 years/Adults-18 years upto 80 years.
+		additionaldiscounts=Family Package covers, there is provision of premium discount @ 5% if two persons are covered and 10% if more than two persons. A special premium discount scheme is available under this Policy, if the Insured has effected his Motor Two Wheeler.
+
+	48
+		iname=Iffco Tokio General Insurance Co Ltd
+		logo=
+		plan=10.4 Health Protector-TOP-UP 
+		coverage=Pre and Post hospitalisation 60 days and 90 days. Emergency Assistance Services. Waiver of Deductible in case of change/
+		Loss of job. No Co-payment. 
+		exclusions=War or any act of war, invasion. Any Insured Person committing or attempting to commit a breach of law with criminal intent, or intentional self injury or attempted suicide while sane or insane. Any Insured Person’s participation or involvement in naval, military or air force operation, racing, diving, aviation, scuba diving, parachuting, hanggliding, rock or mountain climbing. Treatment of Obesity and any weight control program. Venereal disease, sexually transmitted disease or Illness; Psychiatric, mental disorders, Pregnancy (including voluntary termination), miscarriage (except as a result of an Accident or Illness). Dental treatment and surgery of any kind, unless requiring Hospitalisation. Experimental, investigational or unproven treatment, devices and pharmacological regimens.
+		eligibility=Children- 3 Months. Adults - 18 years upto 65 years.
+		additionaldiscounts=Family discount of 5 % if 2 family member are covered under the same policy on Individual sum insured basis. Family discount of 10 % if 3 or more family member are covered under the same policy on Individual sum insured basis.
+
+
+	49
+		iname=Iffco Tokio General Insurance Co Ltd
+		logo=
+		plan=10.5 Health Protector- Super TOP-UP 
+		coverage=Pre and Post hospitalisation 60 days and 90 days. Emergency Assistance Services. Waiver of Deductible in case of change/
+		Loss of job. No Co-payment. 
+		exclusions=War or any act of war, invasion. Any Insured Person committing or attempting to commit a breach of law with criminal intent, or intentional self injury or attempted suicide while sane or insane. Any Insured Person’s participation or involvement in naval, military or air force operation, racing, diving, aviation, scuba diving, parachuting, hanggliding, rock or mountain climbing. Treatment of Obesity and any weight control program. Venereal disease, sexually transmitted disease or Illness; Psychiatric, mental disorders, Pregnancy (including voluntary termination), miscarriage (except as a result of an Accident or Illness). Dental treatment and surgery of any kind, unless requiring Hospitalisation. Experimental, investigational or unproven treatment, devices and pharmacological regimens.
+		eligibility=Children- 3 Months. Adults - 18 years upto 65 years.
+		additionaldiscounts=Family discount of 5 % if 2 family member are covered under the same policy on Individual sum insured basis. Family discount of 10 % if 3 or more family member are covered under the same policy on Individual sum insured basis.
+
+	50
+		iname=Tata AIG General Insurance Co. Ltd
+		logo=
+		plan=11.1 Medi Prime Health Insurance Policy
+		coverage=No Sub Limit on Room Rent and ICU Expenses. Ayurveda, Unani, Sidha and Homeopathy treatment are covered. No Limitation on Domiciliary Treatment and Day Care Procedures. No Co-Payment applicable. The Sum Insured will be	2 lacs to 10 Lacs
+		exclusions=War or any act of war, invasion, act of foreign enemy, intentional self injury or attempted suicide, Person’s participation or involvement in naval, military or air force operation etc. Intoxicating drugs and alcohol, including smoking cessation programs and the treatment of nicotine addiction. Treatment of Obesity and any weight control program, mental disorders, AIDS, Pregnancy, correction of eye due to refractive error; aesthetic. Items of personal comfort and convenience, Provision or fitting of hearing aids, spectacles or contact lens. Any treatment or part of a treatment that is not of a reasonable charge, not medically necessary; drugs or treatments which are not supported by a prescription. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=Minimum Age of Entry : Children-91 days/Adults-18 years; Maximum age of Entry : Children-21 days/Adults-65 years.
+		additionaldiscounts=Family discount of 10% if more than 2 members covered under the Individual Plan. 5% discount for opting 2 years policy.
+
+	51
+		iname=Tata AIG General Insurance Co. Ltd
+		logo=
+		plan=11.2 Medi Raksha Plan
+		coverage=No Pre-policy medical check-up to 55 years. Organ Donar Covered. Family discount. The Sum Insured will be 50 Thousands to 1 Lacs.
+		exclusions=War or any act of war, invasion, act of foreign enemy, intentional self injury or attempted suicide, Person’s participation or involvement in naval, military or air force operation etc. Intoxicating drugs and alcohol, including smoking cessation programs and the treatment of nicotine addiction. Treatment of Obesity and any weight control program, mental disorders, AIDS, Pregnancy, correction of eye due to refractive error; aesthetic. Items of personal comfort and convenience, Provision or fitting of hearing aids, spectacles or contact lens. Any treatment or part of a treatment that is not of a reasonable charge, not medically necessary; drugs or treatments which are not supported by a prescription. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=Minimum Age of Entry : Children-91 days/Adults-18 years; Maximum age of Entry : Children-21 days/Adults-65 years
+		additionaldiscounts=Both the member are covered under single premium
+
+	52
+		iname=Tata AIG General Insurance Co. Ltd
+		logo=
+		plan=11.3 Medi Senior Plan 
+		coverage=No Sum limit on Room Rent. No Claim discount. Organ Donor covered. The Sum Insured will be	2 lacs to 5 Lacs
+		exclusions=War or any act of war, invasion, act of foreign enemy, intentional self injury or attempted suicide, Person’s participation or involvement in naval, military or air force operation etc. Intoxicating drugs and alcohol, including smoking cessation programs and the treatment of nicotine addiction. Treatment of Obesity and any weight control program, mental disorders, AIDS, Pregnancy, correction of eye due to refractive error; aesthetic. Items of personal comfort and convenience, Provision or fitting of hearing aids, spectacles or contact lens. Any treatment or part of a treatment that is not of a reasonable charge, not medically necessary; drugs or treatments which are not supported by a prescription. Medical Expenses relating to any hospitalisation primarily and specifically for diagnostic, X-ray or laboratory examinations and investigations.
+		eligibility=61 years onwards upto no limit.
+		additionaldiscounts=Family discount of 5% if more than 2 members covered under the Individual Plan. 7.5% discount for opting 2 years policy.
+
+	53
+		iname=Tata AIG General Insurance Co. Ltd
+		logo=
+		plan= 11.4 Medi Plus - Top-Up
+		coverage=No Co-payment. No Medical Test up to 50 years. Pre and Post hospitalisation 60 days and 90 days. 
+		exclusions=Any Insured Person committing or attempting to commit a breach of law with criminal intent, or intentional self injury or attempted suicide while sane or insane. War or any act of war, invasion, act of foreign enemy, war like operations. Treatment of Obesity and any weight control program, Psychiatric, sexually transmitted disease. Pregnancy, miscarriage , any fertility, sub-fertility, Dental treatment other than accident and requiring Hospitalisation. Expenses for donor screening, Plastic surgery or cosmetic surgeryunless necessary as a part of medically necessary treatment, unproven treatment. Any non allopathic treatment, The provision or fitting of hearing aids, spectacles or contact lenses .
+		eligibility=Child - 91 Days to 21 years and Adults-18 years upto 65 years.
+		additionaldiscounts=Family Discount of 10 % if 2 members or more family members. 7.5 % discount on premium if insured person is paying premium of 2 years in advance.
+
+	54
+		iname=L & T General Insurance Co Ltd
+		logo=
+		plan= 12.1 Medisure- Classic Plan 
+		coverage=Restoration of the Sum Insured is available in the event of an Accident once in a policy year. Maternity & Ayurvedic treatment expenses are covered. Hospital cash & Recovery benefits are available. Waiting period for pre existing disease is 3 years. The Sum Insured will be 1 Lacs to 5 Lacs.
+		exclusions=Genetic disorder and stem cell implantation/surgery. Birth control procedures, hormone replacement therapy and voluntary termination of pregnancy during the first 12 weeks from the date of conception. Any substance, intoxicant, drug, alcohol, any mental illness, Any cosmetic surgery, Charges incurred primarily for diagnostic, X-ray or laboratory examinations or other. Civil war, public defense, rebellion, revolution, insurrection, military or usurped power.
+		eligibility=Children-91 days to 23 years/Adults-18 years upto 65 years.
+		additionaldiscounts=Family Discount of 10% for 2 or more family members. Discount for multi-year polices-5% discount for opting 2 year policy tenure.
+
+	55
+		iname=L & T General Insurance Co Ltd
+		logo=
+		plan= 12.2 Medisure -Prime Plan
+		coverage=Restoration of the Sum Insured is available in the event of an Accident once in a policy year. Maternity & Expenses on accompanying person are covered. Pre & Post hospitalisation expenses are covered up to 60 & 90 days. Waiting period for pre existing disease is 2 years. Hospital cash, Recovery benefits& concierge services are available. The Sum Insured will be 3 Lacs to 10 Lacs.
+		exclusions=Genetic disorder and stem cell implantation/surgery. Birth control procedures, hormone replacement therapy and voluntary termination of pregnancy during the first 12 weeks from the date of conception. Any substance, intoxicant, drug, alcohol, any mental illness, Any cosmetic surgery, Charges incurred primarily for diagnostic, X-ray or laboratory examinations or other. Civil war, public defense, rebellion, revolution, insurrection, military or usurped power.
+		eligibility=Children-91 days to 23 years/Adults-18 years upto 65 years.
+		additionaldiscounts=Family Discount - The insured will get 10% Family Discount for covering 2 or more family members.
+
+	56
+		iname=Liberty Videocon General Insurance
+		logo=
+		plan= 13.1 Health Connect- Basic Plan
+		coverage=Pre Hospitalisation-60 days/Post Hospitalisation-90 days. No Co-payment. No Claim bonus up to 100% of the Sum Insured. Organ Donor covered up to basic Sum Insured. Some Organ Specific are Covered after 1 year like Cataract, Benign Prostatic Hypertrophy etc. The Sum Insured will be 2,3,4,5,6,7.5,10 Lacs.
+		exclusions=Intentionally self-inflicted Injury or illness. Expenses arising from HIV or AIDS and related diseases,Any OPD treatment. Abuse of intoxicant or hallucinogenic substance like drugs and alcohol. Hospitalisation due to war / acts of war, nuclear, chemical / biological weapon & radiation of any kind. Any treatment arising from or traceable to pregnancy,Treatment of obesity,External Congenital. Treatment of mental illness,cosmetic surgery/implants or plastic surgery. All preventive care, vaccination including inoculation and immunizations,Non-allopathic treatment. Treatment received outside India,War or any act of war, invasion, act of foreign enemy. Personal comfort and convenience items or services. Any hazardous activity.
+		eligibility=Children - 91 days to 25 years/Adults-18 years upto No Limit.
+		additionaldiscounts=Family Discount: 10% discount if more than 2 family members are covered on Individual Sum Insured basis. Multi Year Policy Discount: for a 2 year policy period, 7.5% discount. 
+
+	57
+		iname=Liberty Videocon General Insurance
+		logo=
+		plan= 13.2 Health Connect- Elite Plan
+		coverage=Auto Restore of Sum Insured. Pre Hospitalisation-60 days/Post Hospitalisation-90 days. No Claim bonus up to 100% of the Sum Insured. Organ Donor covered up to basic Sum Insured. Some Organ Specific are Covered after 1 year like Cataract, Benign Prostatic Hypertrophy etc. No Co-payment/Pre Existing Disease are covered after 3. The Sum Insured will be 3,4,5,6,7.5,10,15 Lacs
+		exclusions=Intentionally self-inflicted Injury or illness. Expenses arising from HIV or AIDS and related diseases,Any OPD treatment. Abuse of intoxicant or hallucinogenic substance like drugs and alcohol. Hospitalisation due to war / acts of war, nuclear, chemical / biological weapon & radiation of any kind. Any treatment arising from or traceable to pregnancy,Treatment of obesity,External Congenital. Treatment of mental illness,cosmetic surgery/implants or plastic surgery. All preventive care, vaccination including inoculation and immunizations,Non-allopathic treatment. Treatment received outside India,War or any act of war, invasion, act of foreign enemy. Personal comfort and convenience items or services. Any hazardous activity.
+		eligibility=Children - 91 days to 25 years/Adults-18 years upto No Limit.
+		additionaldiscounts=Family Discount: 10% discount if more than 2 family members are covered on Individual Sum Insured basis. Multi Year Policy Discount: for a 2 year policy period, 7.5% discount.
+
+	58
+		iname=Liberty Videocon General Insurance
+		logo=
+		plan= 13.3 Health Connect - Supreme Plan
+		coverage=Auto Restore of Sum Insured. Pre Hospitalisation-60 days/Post Hospitalisation-90 days. No Claim bonus up to 100% of the Sum Insured. Organ Donor covered up to basic Sum Insured. Some Organ Specific are Covered after 1 year like Cataract, Benign Prostatic Hypertrophy etc. No Co-payment/Pre Existing Disease are covered after 2 years. The Sum Insured will be 2,3,4,5,6,7.5, 10,15 Lacs.
+		exclusions=Intentionally self-inflicted Injury or illness. Expenses arising from HIV or AIDS and related diseases,Any OPD treatment. Abuse of intoxicant or hallucinogenic substance like drugs and alcohol. Hospitalisation due to war / acts of war, nuclear, chemical / biological weapon & radiation of any kind. Any treatment arising from or traceable to pregnancy,Treatment of obesity,External Congenital. Treatment of mental illness,cosmetic surgery/implants or plastic surgery. All preventive care, vaccination including inoculation and immunizations,Non-allopathic treatment. Treatment received outside India,War or any act of war, invasion, act of foreign enemy. Personal comfort and convenience items or services. Any hazardous activity.
+		eligibility=Children - 91 days to 25 years/Adults-18 years upto No Limit.
+		additionaldiscounts=Family Discount: 10% discount if more than 2 family members are covered on Individual Sum Insured basis. Multi Year Policy Discount: for a 2 year policy period, 7.5% discount.
+
+	59
+		iname=MAX Bupa Health Insurance Company Ltd
+		logo=
+		plan= 14.1 Health Companion-Individual Plan
+		coverage=Restore benefits up to Sum Insured. Annual Health Check ups in Varaint-2 & 3. Pre Existing Disease is covered after 3 years in Varaint-2 & 3. All day care procedure are covered. No Claim Bonus up to 100% of Sum Insured. Vaccination in case of animal bite are covered.
+		exclusions=	Addictive conditions and disorders. Ageing and puberty. Artificial life maintenance. Active participation in adventure or hazardous sports including but not limited to para-jumping, rock climbing, mountaineering, motor racing, horse racing or deep-sea diving. Circumcision. Dental/oral treatment. Conflict and disaster. Congenital conditions. Convalescence and Rehabilitation. Cosmetic surgery. Drugs and dressings for Out-patient or take-home use. Eyesight. Unproven/Experimental treatment. Health hydros, nature cures, wellness clinics etc. HIV and AIDS. Obesity. Hereditary conditions. Genetic Disorder. Items of personal comfort and convenience. Alternative Treatment. Psychiatric and Psychosomatic Conditions. OPD Treatment. Reproductive medicine - Birth control & Assisted reproduction. Self-inflicted injuries. Sexual problems and gender issues. Sexually transmitted diseases. Unrecognized physician or Hospital. Sleep disorders. Speech disorders. Treatment for developmental problems. Treatment received outside India. Unlawful Activity. 
+		eligibility=Children-91 days to 21 years/Adults-18 years upto No Limit.
+		additionaldiscounts=Discount for multi-year polices - 12.5% discount for opting 2yr policy tenure
+
+	60
+		iname=MAX Bupa Health Insurance Company Ltd
+		logo=
+		plan= 14.2 Health Companion Family Floater Plan
+		coverage=Restore benefits up to Sum Insured. Annual Health Check ups in Varaint-2 & 3. Pre Existing Disease is covered after 3 years in Varaint-2 & 3. All day care procedure are covered. No Claim Bonus up to 100% of Sum Insured. Vaccination in case of animal bite are covered. 
+		exclusions=Addictive conditions and disorders. Ageing and puberty. Artificial life maintenance. Active participation in adventure or hazardous sports including but not limited to para-jumping, rock climbing, mountaineering, motor racing, horse racing or deep-sea diving. Circumcision. Dental/oral treatment. Conflict and disaster. Congenital conditions. Convalescence and Rehabilitation. Cosmetic surgery. Drugs and dressings for Out-patient or take-home use. Eyesight. Unproven/Experimental treatment. Health hydros, nature cures, wellness clinics etc. HIV and AIDS. Obesity. Hereditary conditions. Genetic Disorder. Items of personal comfort and convenience. Alternative Treatment. Psychiatric and Psychosomatic Conditions. OPD Treatment. Reproductive medicine - Birth control & Assisted reproduction. Self-inflicted injuries. Sexual problems and gender issues. Sexually transmitted diseases. Unrecognized physician or Hospital. Sleep disorders. Speech disorders. Treatment for developmental problems. Treatment received outside India. Unlawful Activity. 
+		eligibility=Children-91 days to 21 years/Adults-18 years upto No Limit
+		additionaldiscounts=Discount for multi-year polices-12.5% discount for opting 2yr policy tenure
+
+	61
+		iname=MAX Bupa Health Insurance Company Ltd
+		logo=
+		plan= 14.3 Health Companion-Family First Plan
+		coverage=Ayurveda, Unani, Sidha and Homeopathy treatment. Annual Health Check ups. All day care procedure are covered. No Claim Bonus up to 100% of Sum Insured. Pre Existing Disease is covered after 3 years in Varaint-2 & 3. In a Family First Policy you can cover upto 19 relationships.
+		exclusions=Addictive conditions and disorders. Ageing and puberty. Artificial life maintenance. Active participation in adventure or hazardous sports including but not limited to para-jumping, rock climbing, mountaineering, motor racing, horse racing or deep-sea diving. Circumcision. Dental/oral treatment. Conflict and disaster. Congenital conditions. Convalescence and Rehabilitation. Cosmetic surgery. Drugs and dressings for Out-patient or take-home use. Eyesight. Unproven/Experimental treatment. Health hydros, nature cures, wellness clinics etc. HIV and AIDS. Obesity. Hereditary conditions. Genetic Disorder. Items of personal comfort and convenience. Alternative Treatment. Psychiatric and Psychosomatic Conditions. OPD Treatment. Reproductive medicine - Birth control & Assisted reproduction. Self-inflicted injuries. Sexual problems and gender issues. Sexually transmitted diseases. Unrecognized physician or Hospital. Sleep disorders. Speech disorders. Treatment for developmental problems. Treatment received outside India. Unlawful Activity.
+		eligibility=Children-91 days to 21 years/Adults-18 years upto No Limit
+		additionaldiscounts=Discount for multi-year polices-12.5% discount for opting 2yr policy tenure
+
+	62
+		iname=MAX Bupa Health Insurance Company Ltd
+		logo=
+		plan= 14.4 Heart Beat Individual Plan
+		coverage=Maternity benefits covered after 2 years. All day care procedure are covered. Annual Health check ups in Gold and Platinum Plan. Worldwide Emergency Cover in Platinum Plan. Pre Existing Disease is covered after 2 years in Gold and Platinum Plan. Organ Specific Disease are covered after 90 days(Except age 60 years and above).
+		exclusions=Addictive conditions and disorders. Ageing and puberty. Artificial life maintenance. Active participation in adventure or hazardous sports including but not limited to para-jumping, rock climbing, mountaineering, motor racing, horse racing or deep-sea diving. Circumcision. Dental/oral treatment. Conflict and disaster. Congenital conditions. Convalescence and Rehabilitation. Cosmetic surgery. Drugs and dressings for Out-patient or take-home use. Eyesight. Unproven/Experimental treatment. Health hydros, nature cures, wellness clinics etc. HIV and AIDS. Obesity. Hereditary conditions. Genetic Disorder. Items of personal comfort and convenience. Alternative Treatment. Psychiatric and Psychosomatic Conditions. OPD Treatment. Reproductive medicine - Birth control & Assisted reproduction. Self-inflicted injuries. Sexual problems and gender issues. Sexually transmitted diseases. Unrecognized physician or Hospital. Sleep disorders. Speech disorders. Treatment for developmental problems. Treatment received outside India. Unlawful Activity.
+		eligibility=Minimum Age of Entry : No Limit; Maximum age of Entry : Maximum dependent Age 21 years/No Limit
+		additionaldiscounts=Discount for multi-year polices-12.5% discount for opting 2yr policy tenure.
+
+	63
+		iname=MAX Bupa Health Insurance Company Ltd
+		logo=
+		plan= 14.5 Heart Beat-Family Floater Plan
+		coverage=Maternity benefits covered after 2 years. All day care procedure are covered. Annual Health check ups in Gold and Platinum Plan. Worldwide Emergency Cover in Platinum Plan. Pre Existing Disease is covered after 2 years in Gold and Platinum Plan. Organ Specific Disease are covered after 90 days(Except age 60 years and above).
+		exclusions=Addictive conditions and disorders. Ageing and puberty. Artificial life maintenance. Active participation in adventure or hazardous sports including but not limited to para-jumping, rock climbing, mountaineering, motor racing, horse racing or deep-sea diving. Circumcision. Dental/oral treatment. Conflict and disaster. Congenital conditions. Convalescence and Rehabilitation. Cosmetic surgery. Drugs and dressings for Out-patient or take-home use. Eyesight. Unproven/Experimental treatment. Health hydros, nature cures, wellness clinics etc. HIV and AIDS. Obesity. Hereditary conditions. Genetic Disorder. Items of personal comfort and convenience. Alternative Treatment. Psychiatric and Psychosomatic Conditions. OPD Treatment. Reproductive medicine - Birth control & Assisted reproduction. Self-inflicted injuries. Sexual problems and gender issues. Sexually transmitted diseases. Unrecognized physician or Hospital. Sleep disorders. Speech disorders. Treatment for developmental problems. Treatment received outside India. Unlawful Activity.
+		eligibility=Minimum Age of Entry : No Limit; Maximum age of Entry : Maximum dependent Age 21 years/No Limit
+		additionaldiscounts=Discount for multi-year polices-12.5% discount for opting 2yr policy tenure.
+
+	64
+		iname=MAX Bupa Health Insurance Company Ltd
+		logo=
+		plan= 14.6 Heart Beat -Family First Plan
+		coverage=Maternity benefits covered after 2 years. All day care procedure are covered. Annual Health check ups in Gold and Platinum Plan. Worldwide Emergency Cover in Platinum Plan. Pre Existing Disease is covered after 2 years in Gold and Platinum Plan. Organ Specific Disease are covered after 90 days(Except age 60 years and above).
+		exclusions=Addictive conditions and disorders. Ageing and puberty. Artificial life maintenance. Active participation in adventure or hazardous sports including but not limited to para-jumping, rock climbing, mountaineering, motor racing, horse racing or deep-sea diving. Circumcision. Dental/oral treatment. Conflict and disaster. Congenital conditions. Convalescence and Rehabilitation. Cosmetic surgery. Drugs and dressings for Out-patient or take-home use. Eyesight. Unproven/Experimental treatment. Health hydros, nature cures, wellness clinics etc. HIV and AIDS. Obesity. Hereditary conditions. Genetic Disorder. Items of personal comfort and convenience. Alternative Treatment. Psychiatric and Psychosomatic Conditions. OPD Treatment. Reproductive medicine - Birth control & Assisted reproduction. Self-inflicted injuries. Sexual problems and gender issues. Sexually transmitted diseases. Unrecognized physician or Hospital. Sleep disorders. Speech disorders. Treatment for developmental problems. Treatment received outside India. Unlawful Activity.
+		eligibility=Minimum Age of Entry : No Limit; Maximum age of Entry : Maximum dependent Age 21 years/No Limit
+		additionaldiscounts=Discount for multi-year polices-12.5% discount for opting 2yr policy tenure.
+
+	
